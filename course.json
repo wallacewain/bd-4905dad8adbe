@@ -1,0 +1,4442 @@
+{
+ "credits": "Dialect recordings: SwissDial (Graubünden), ETH Zürich, <a href='https://creativecommons.org/licenses/by-nc/4.0/'>CC BY-NC 4.0</a>; clips trimmed and converted to MP3. English voice: Microsoft Azure.",
+ "items": [
+  {
+   "id": "5545",
+   "en": "I don't know who that is.",
+   "gsw": "I weiss nit, wer das isch.",
+   "lit": "I know not, who that is",
+   "ms": 1637,
+   "clip": "audio/gsw/5545.mp3",
+   "enClip": "audio/en/198a0fba88c3b635.mp3"
+  },
+  {
+   "id": "5548",
+   "en": "I'm not sure.",
+   "gsw": "I bin miar nit sicher.",
+   "lit": "I am me not sure",
+   "ms": 1442,
+   "clip": "audio/gsw/5548.mp3",
+   "enClip": "audio/en/8f277c26cde59f8d.mp3"
+  },
+  {
+   "id": "5547",
+   "en": "I'm not quite sure.",
+   "gsw": "I bin miar nit ganz sicher.",
+   "lit": "",
+   "ms": 1624,
+   "clip": "audio/gsw/5547.mp3",
+   "enClip": "audio/en/8119fcb08520e9c7.mp3"
+  },
+  {
+   "id": "5546",
+   "en": "I'm not sure who that is.",
+   "gsw": "I bin nit sicher, wer das isch.",
+   "lit": "",
+   "ms": 1940,
+   "clip": "audio/gsw/5546.mp3",
+   "enClip": "audio/en/12b001d04664971c.mp3"
+  },
+  {
+   "id": "3466",
+   "en": "Hello!",
+   "gsw": "Hallo!",
+   "lit": "",
+   "ms": 736,
+   "clip": "audio/gsw/3466.mp3",
+   "enClip": "audio/en/2bb288c720d97a75.mp3"
+  },
+  {
+   "id": "646",
+   "en": "All the better to see you with!",
+   "gsw": "Dassi di besser gseh kann!",
+   "lit": "",
+   "ms": 1990,
+   "clip": "audio/gsw/646.mp3",
+   "enClip": "audio/en/9226646813b2bb46.mp3"
+  },
+  {
+   "id": "2447",
+   "en": "Well, strictly speaking, one.",
+   "gsw": "Jonu, gnau gnoh eini.",
+   "lit": "jonu = well",
+   "ms": 2157,
+   "clip": "audio/gsw/2447.mp3",
+   "enClip": "audio/en/3ba56a76acb6d61f.mp3"
+  },
+  {
+   "id": "644",
+   "en": "All the better to hear you with!",
+   "gsw": "Dass i di besser ghöra kann!",
+   "lit": "",
+   "ms": 1810,
+   "clip": "audio/gsw/644.mp3",
+   "enClip": "audio/en/3aecbc19f7da2840.mp3"
+  },
+  {
+   "id": "2446",
+   "en": "She took more of it.",
+   "gsw": "Sie het meh drvo gnoh.",
+   "lit": "",
+   "ms": 1853,
+   "clip": "audio/gsw/2446.mp3",
+   "enClip": "audio/en/d693d57452a836ec.mp3"
+  },
+  {
+   "id": "217",
+   "en": "As if he were waiting for something.",
+   "gsw": "Als warti er uf öppis.",
+   "lit": "",
+   "ms": 1390,
+   "clip": "audio/gsw/217.mp3",
+   "enClip": "audio/en/525a05997bc76ef5.mp3"
+  },
+  {
+   "id": "1691",
+   "en": "He's coming in from upstairs.",
+   "gsw": "Er kunnt vu oba ina.",
+   "lit": "vu oba ina = from above, in",
+   "ms": 1750,
+   "clip": "audio/gsw/1691.mp3",
+   "enClip": "audio/en/6c1906f7b9edd433.mp3"
+  },
+  {
+   "id": "1692",
+   "en": "I came in from upstairs.",
+   "gsw": "I bin vu oba ina koh.",
+   "lit": "",
+   "ms": 1478,
+   "clip": "audio/gsw/1692.mp3",
+   "enClip": "audio/en/d0dd78c45eaedf93.mp3"
+  },
+  {
+   "id": "5533",
+   "en": "I'm not sure how I can help you with that.",
+   "gsw": "I bin miar nit sicher wia i diar drbii helfa kann.",
+   "lit": "",
+   "ms": 2645,
+   "clip": "audio/gsw/5533.mp3",
+   "enClip": "audio/en/95f2b8045bed332b.mp3"
+  },
+  {
+   "id": "2585",
+   "en": "Tell me what you see.",
+   "gsw": "Seg mer, was du gsehsch.",
+   "lit": "",
+   "ms": 1709,
+   "clip": "audio/gsw/2585.mp3",
+   "enClip": "audio/en/8a7e8ff1dfeff999.mp3"
+  },
+  {
+   "id": "5541",
+   "en": "I don't understand you.",
+   "gsw": "I verstohn di nit.",
+   "lit": "verstoh = understand",
+   "ms": 1271,
+   "clip": "audio/gsw/5541.mp3",
+   "enClip": "audio/en/632b75458eebb27b.mp3"
+  },
+  {
+   "id": "5536",
+   "en": "I'm sorry, I don't understand.",
+   "gsw": "Es tuat miar leid, i verstohn nit.",
+   "lit": "it does me sorry",
+   "ms": 2045,
+   "clip": "audio/gsw/5536.mp3",
+   "enClip": "audio/en/ee21431fab17f694.mp3"
+  },
+  {
+   "id": "5537",
+   "en": "Sorry, I don't understand you.",
+   "gsw": "Tuat miar leid, i verstohn di nit.",
+   "lit": "",
+   "ms": 2004,
+   "clip": "audio/gsw/5537.mp3",
+   "enClip": "audio/en/a6366ae176b1d739.mp3"
+  },
+  {
+   "id": "71",
+   "en": "I'll have a look at it.",
+   "gsw": "I luag en mair ah.",
+   "lit": "",
+   "ms": 1730,
+   "clip": "audio/gsw/71.mp3",
+   "enClip": "audio/en/dac5bdc3017452cf.mp3"
+  },
+  {
+   "id": "5576",
+   "en": "It's five to six.",
+   "gsw": "Es isch füf vor sechsi.",
+   "lit": "",
+   "ms": 1470,
+   "clip": "audio/gsw/5576.mp3",
+   "enClip": "audio/en/3c95abb69d0c2f75.mp3"
+  },
+  {
+   "id": "5570",
+   "en": "It's twenty past one.",
+   "gsw": "Es isch zwanzig ab eins.",
+   "lit": "",
+   "ms": 1683,
+   "clip": "audio/gsw/5570.mp3",
+   "enClip": "audio/en/706496f1e06b169d.mp3"
+  },
+  {
+   "id": "3747",
+   "en": "Thanks a lot.",
+   "gsw": "Viela Dank.",
+   "lit": "many thanks",
+   "ms": 1003,
+   "clip": "audio/gsw/3747.mp3",
+   "enClip": "audio/en/b764c2112e1dcc31.mp3"
+  },
+  {
+   "id": "4036",
+   "en": "In the morning I go to work.",
+   "gsw": "Am morga gohn i go schaffa.",
+   "lit": "schaffa = to work",
+   "ms": 1696,
+   "clip": "audio/gsw/4036.mp3",
+   "enClip": "audio/en/e9502bcbcb457497.mp3"
+  },
+  {
+   "id": "1788",
+   "en": "Did you understand that?",
+   "gsw": "Hesch du das verstanda?",
+   "lit": "have you that understood",
+   "ms": 1510,
+   "clip": "audio/gsw/1788.mp3",
+   "enClip": "audio/en/465bf379a8e02f6f.mp3"
+  },
+  {
+   "id": "2749",
+   "en": "Yes, they all understood.",
+   "gsw": "Jo, sie hend alli verstanda.",
+   "lit": "",
+   "ms": 1930,
+   "clip": "audio/gsw/2749.mp3",
+   "enClip": "audio/en/c39d3e085e8ded91.mp3"
+  },
+  {
+   "id": "5542",
+   "en": "I don't think I understood you.",
+   "gsw": "I glauba i han di nit verstanda.",
+   "lit": "I believe I have you not understood",
+   "ms": 1809,
+   "clip": "audio/gsw/5542.mp3",
+   "enClip": "audio/en/c26a04f1c64917a5.mp3"
+  },
+  {
+   "id": "2389",
+   "en": "Yes, I think I've got it now.",
+   "gsw": "Jo i glauba jetzt han i das verstanda.",
+   "lit": "",
+   "ms": 2274,
+   "clip": "audio/gsw/2389.mp3",
+   "enClip": "audio/en/aaf7c90c7f15b8d7.mp3"
+  },
+  {
+   "id": "2388",
+   "en": "Today I didn't understand a thing at school, again.",
+   "gsw": "Jetzt han i in dr Schual scho wieder gar nüt verstanda.",
+   "lit": "",
+   "ms": 2820,
+   "clip": "audio/gsw/2388.mp3",
+   "enClip": "audio/en/956e46d96d78ed53.mp3"
+  },
+  {
+   "id": "2434",
+   "en": "You just never think when you do something.",
+   "gsw": "Du denksch eifach nia noh wenn öpis machsch.",
+   "lit": "",
+   "ms": 2344,
+   "clip": "audio/gsw/2434.mp3",
+   "enClip": "audio/en/9684a93d916c7abf.mp3"
+  },
+  {
+   "id": "5045",
+   "en": "My mum won't let me go out.",
+   "gsw": "Mini Mä loht mi nit ussagoh.",
+   "lit": "Mä = mum",
+   "ms": 1785,
+   "clip": "audio/gsw/5045.mp3",
+   "enClip": "audio/en/2f375dd4ab1a6493.mp3"
+  },
+  {
+   "id": "5538",
+   "en": "I don't know what that means.",
+   "gsw": "I weiss nit, was das bedütet.",
+   "lit": "",
+   "ms": 1841,
+   "clip": "audio/gsw/5538.mp3",
+   "enClip": "audio/en/d9ce94824b2cffef.mp3"
+  },
+  {
+   "id": "5033",
+   "en": "Start the car up.",
+   "gsw": "Lohn ds Auto suttera.",
+   "lit": "let the car rattle",
+   "ms": 1550,
+   "clip": "audio/gsw/5033.mp3",
+   "enClip": "audio/en/9d76610d2cf3ea04.mp3"
+  },
+  {
+   "id": "1231",
+   "en": "So tonight it'll stay calm here.",
+   "gsw": "Jetzt in dr Nacht bliibts bi üs also ruhig.",
+   "lit": "",
+   "ms": 2480,
+   "clip": "audio/gsw/1231.mp3",
+   "enClip": "audio/en/1d336be24149fb5c.mp3"
+  },
+  {
+   "id": "3541",
+   "en": "You just have to make my bed properly.",
+   "gsw": "Du muasch nur mis Bett guat macha.",
+   "lit": "",
+   "ms": 1813,
+   "clip": "audio/gsw/3541.mp3",
+   "enClip": "audio/en/f64adbd85bc1a2be.mp3"
+  },
+  {
+   "id": "5540",
+   "en": "Excuse me, I don't understand.",
+   "gsw": "Entschuldigung, i verstohn nit.",
+   "lit": "",
+   "ms": 2026,
+   "clip": "audio/gsw/5540.mp3",
+   "enClip": "audio/en/f6dfb8fa15839642.mp3"
+  },
+  {
+   "id": "5539",
+   "en": "Sorry, I didn't catch that.",
+   "gsw": "Entschuldigung, das hani nit verstanda.",
+   "lit": "that have-I not understood",
+   "ms": 2296,
+   "clip": "audio/gsw/5539.mp3",
+   "enClip": "audio/en/65a18337090bc38f.mp3"
+  },
+  {
+   "id": "5018",
+   "en": "I'm going to bed a bit earlier today.",
+   "gsw": "I gohn hüt as bizli früahner go knurra.",
+   "lit": "knurra = to sleep (slang); as bizli = a bit",
+   "ms": 2139,
+   "clip": "audio/gsw/5018.mp3",
+   "enClip": "audio/en/e9e7af80505b671e.mp3"
+  },
+  {
+   "id": "5034",
+   "en": "Let it run!",
+   "gsw": "Lohns suttera!",
+   "lit": "",
+   "ms": 1116,
+   "clip": "audio/gsw/5034.mp3",
+   "enClip": "audio/en/4f38e53f28155360.mp3"
+  },
+  {
+   "id": "410",
+   "en": "Today you can hardly see anything of it.",
+   "gsw": "Hüt isch drvo kuum no öpis z gseh.",
+   "lit": "",
+   "ms": 2450,
+   "clip": "audio/gsw/410.mp3",
+   "enClip": "audio/en/7f7072b0b1956b82.mp3"
+  },
+  {
+   "id": "1701",
+   "en": "And nobody is waiting for you.",
+   "gsw": "Und es wartet niamert uf di.",
+   "lit": "niamert = nobody",
+   "ms": 1570,
+   "clip": "audio/gsw/1701.mp3",
+   "enClip": "audio/en/fadbcd358271f307.mp3"
+  },
+  {
+   "id": "5532",
+   "en": "Sorry, I can't help you with that.",
+   "gsw": "Entschuldigung, i kann diar drbii nit helfa.",
+   "lit": "",
+   "ms": 2660,
+   "clip": "audio/gsw/5532.mp3",
+   "enClip": "audio/en/7dd7829604a53b81.mp3"
+  },
+  {
+   "id": "2744",
+   "en": "You don't understand anything again, when are you finally going to start learning?",
+   "gsw": "Du verstohsch scho wieder nüt, wenn wettsch du englich afoh zlerna?",
+   "lit": "",
+   "ms": 3610,
+   "clip": "audio/gsw/2744.mp3",
+   "enClip": "audio/en/f9446245a003f950.mp3"
+  },
+  {
+   "id": "2686",
+   "en": "She's done well for herself.",
+   "gsw": "Sie hets guat troffa.",
+   "lit": "",
+   "ms": 1570,
+   "clip": "audio/gsw/2686.mp3",
+   "enClip": "audio/en/d9c6cff567d00ec1.mp3"
+  },
+  {
+   "id": "4982",
+   "en": "Don't forget your head!",
+   "gsw": "Vergiss din Pölli nit!",
+   "lit": "Pölli = head (slang)",
+   "ms": 1634,
+   "clip": "audio/gsw/4982.mp3",
+   "enClip": "audio/en/99cf6ea46936f6ee.mp3"
+  },
+  {
+   "id": "206",
+   "en": "And so his parents can start all over again.",
+   "gsw": "Und so könn sini Eltera no ei mol vu vorna afanga.",
+   "lit": "",
+   "ms": 3310,
+   "clip": "audio/gsw/206.mp3",
+   "enClip": "audio/en/9dbbce48541efa4a.mp3"
+  },
+  {
+   "id": "2643",
+   "en": "He'd always felt it, until now.",
+   "gsw": "Er hets bis jetzt immer gspüürt.",
+   "lit": "",
+   "ms": 2009,
+   "clip": "audio/gsw/2643.mp3",
+   "enClip": "audio/en/9393616ac474e55e.mp3"
+  },
+  {
+   "id": "228",
+   "en": "Back then you ate all my food.",
+   "gsw": "Du hesch miar dozumol alles weg gessa.",
+   "lit": "dozumol = back then",
+   "ms": 2410,
+   "clip": "audio/gsw/228.mp3",
+   "enClip": "audio/en/56efca3a407e8d43.mp3"
+  },
+  {
+   "id": "5041",
+   "en": "My grandad's already very old.",
+   "gsw": "Min Neni isch schu sehr alt.",
+   "lit": "Neni = grandad (Graubünden)",
+   "ms": 1830,
+   "clip": "audio/gsw/5041.mp3",
+   "enClip": "audio/en/652360e9cee5d405.mp3"
+  },
+  {
+   "id": "4975",
+   "en": "The idiot in front should drive a bit faster.",
+   "gsw": "De Payas do vorna söll amol schneller fahra.",
+   "lit": "",
+   "ms": 2664,
+   "clip": "audio/gsw/4975.mp3",
+   "enClip": "audio/en/3862111bd4436208.mp3"
+  },
+  {
+   "id": "4976",
+   "en": "My boss is an idiot.",
+   "gsw": "Min Chef isch en Payas.",
+   "lit": "Payas = idiot",
+   "ms": 1666,
+   "clip": "audio/gsw/4976.mp3",
+   "enClip": "audio/en/16aedc6784aeb35f.mp3"
+  },
+  {
+   "id": "2558",
+   "en": "He works fast, so he'll surely be done tomorrow.",
+   "gsw": "Er schafft schnell also wird er mora bestimmt fertig sii.",
+   "lit": "mora = tomorrow",
+   "ms": 3650,
+   "clip": "audio/gsw/2558.mp3",
+   "enClip": "audio/en/bb6dc5908f88093d.mp3"
+  },
+  {
+   "id": "2759",
+   "en": "I can afford that now, because I'm working hard at the moment.",
+   "gsw": "Das kann i miar hüt leista, will i im Moment hart schaffa.",
+   "lit": "schaffa = work",
+   "ms": 3252,
+   "clip": "audio/gsw/2759.mp3",
+   "enClip": "audio/en/a16983f7d865f7e2.mp3"
+  },
+  {
+   "id": "1808",
+   "en": "Winning isn't everything, they say.",
+   "gsw": "Gwünna sig eba nid alles.",
+   "lit": "",
+   "ms": 1630,
+   "clip": "audio/gsw/1808.mp3",
+   "enClip": "audio/en/2a8bf6c8f3cd513b.mp3"
+  },
+  {
+   "id": "1785",
+   "en": "You'll win, I know that.",
+   "gsw": "Du wirsch gwünna das weiss i.",
+   "lit": "",
+   "ms": 1682,
+   "clip": "audio/gsw/1785.mp3",
+   "enClip": "audio/en/c9e4dafa8c8a48af.mp3"
+  },
+  {
+   "id": "979",
+   "en": "He's married and has a child.",
+   "gsw": "Er isch verhüürotet und het as Kind.",
+   "lit": "",
+   "ms": 2290,
+   "clip": "audio/gsw/979.mp3",
+   "enClip": "audio/en/97e79abfc09504ca.mp3"
+  },
+  {
+   "id": "2614",
+   "en": "There's someone else sitting in there.",
+   "gsw": "Döt dinna sitzt no öppert.",
+   "lit": "öppert = someone",
+   "ms": 1711,
+   "clip": "audio/gsw/2614.mp3",
+   "enClip": "audio/en/e9b1612868456c81.mp3"
+  },
+  {
+   "id": "2616",
+   "en": "And still, here you are sitting.",
+   "gsw": "Und trotzdem sitzisch du jetzt do.",
+   "lit": "",
+   "ms": 2050,
+   "clip": "audio/gsw/2616.mp3",
+   "enClip": "audio/en/6244596ba3d74244.mp3"
+  },
+  {
+   "id": "1694",
+   "en": "He had prepared well.",
+   "gsw": "Er het sich guat vorbereitet.",
+   "lit": "",
+   "ms": 1810,
+   "clip": "audio/gsw/1694.mp3",
+   "enClip": "audio/en/211856d9c4f9aa10.mp3"
+  },
+  {
+   "id": "1695",
+   "en": "They're bound to be well prepared.",
+   "gsw": "Sie sind sicher guat vorbereitet.",
+   "lit": "",
+   "ms": 2050,
+   "clip": "audio/gsw/1695.mp3",
+   "enClip": "audio/en/00c9f8242306a9c7.mp3"
+  },
+  {
+   "id": "3530",
+   "en": "The poor girl had to work very hard.",
+   "gsw": "Ds arma Meitli het ganz viel müassa schaffa.",
+   "lit": "Meitli = girl",
+   "ms": 2621,
+   "clip": "audio/gsw/3530.mp3",
+   "enClip": "audio/en/1eab97e41e20ecd5.mp3"
+  },
+  {
+   "id": "2420",
+   "en": "Only years later did he finally let go.",
+   "gsw": "Erst Johr spöter hetter endlich losloh.",
+   "lit": "",
+   "ms": 2786,
+   "clip": "audio/gsw/2420.mp3",
+   "enClip": "audio/en/cb56340cef964b1d.mp3"
+  },
+  {
+   "id": "2672",
+   "en": "But what was she looking for?",
+   "gsw": "Aber noch was het sie gsuacht?",
+   "lit": "",
+   "ms": 1750,
+   "clip": "audio/gsw/2672.mp3",
+   "enClip": "audio/en/1c86c15a3f44a6b6.mp3"
+  },
+  {
+   "id": "1704",
+   "en": "We've already been waiting for you.",
+   "gsw": "Miar hend schu uf Sie gwartet.",
+   "lit": "",
+   "ms": 1570,
+   "clip": "audio/gsw/1704.mp3",
+   "enClip": "audio/en/abfd0aa1f6737c88.mp3"
+  },
+  {
+   "id": "2408",
+   "en": "Didn't you hear him? He called us really loudly.",
+   "gsw": "Hesch du ihn nit ghört, er het üüs ganz luut gruafa.",
+   "lit": "",
+   "ms": 3470,
+   "clip": "audio/gsw/2408.mp3",
+   "enClip": "audio/en/08991f2ab1aaf075.mp3"
+  },
+  {
+   "id": "4042",
+   "en": "Are you tired?",
+   "gsw": "Sind Sie müad?",
+   "lit": "formal \"you\"",
+   "ms": 1181,
+   "clip": "audio/gsw/4042.mp3",
+   "enClip": "audio/en/36d3c44137dace33.mp3"
+  },
+  {
+   "id": "5019",
+   "en": "You look tired, you should go to bed.",
+   "gsw": "Du gsehsch müad uus, du söttsch go knurra goh.",
+   "lit": "",
+   "ms": 2351,
+   "clip": "audio/gsw/5019.mp3",
+   "enClip": "audio/en/1560edee83f4a4b6.mp3"
+  },
+  {
+   "id": "4723",
+   "en": "He's not getting any bigger, more like smaller.",
+   "gsw": "Nur werdi er nüm grösser, sondern eher kliner.",
+   "lit": "",
+   "ms": 2654,
+   "clip": "audio/gsw/4723.mp3",
+   "enClip": "audio/en/b7d6d91cf8e9957e.mp3"
+  },
+  {
+   "id": "2649",
+   "en": "He's the one who stole our child.",
+   "gsw": "Er isch es, wo üsses Kind gstohla het.",
+   "lit": "",
+   "ms": 2330,
+   "clip": "audio/gsw/2649.mp3",
+   "enClip": "audio/en/b8f283dd970f35a7.mp3"
+  },
+  {
+   "id": "69",
+   "en": "Back then I still worked very fast.",
+   "gsw": "I han damals no sehr schnell gschafft.",
+   "lit": "",
+   "ms": 2930,
+   "clip": "audio/gsw/69.mp3",
+   "enClip": "audio/en/0d5693904ad573db.mp3"
+  },
+  {
+   "id": "2275",
+   "en": "She's just taking her baby's clothes off.",
+   "gsw": "Sie züücht ihrem Baby grad dKleider ab.",
+   "lit": "",
+   "ms": 2690,
+   "clip": "audio/gsw/2275.mp3",
+   "enClip": "audio/en/807893efc26a8c59.mp3"
+  },
+  {
+   "id": "2535",
+   "en": "She slept in my bed.",
+   "gsw": "Sie het in minem Bett gschlofa.",
+   "lit": "",
+   "ms": 1972,
+   "clip": "audio/gsw/2535.mp3",
+   "enClip": "audio/en/0a32bdcba7b4fd0c.mp3"
+  },
+  {
+   "id": "2534",
+   "en": "He even slept up here.",
+   "gsw": "Er het sogar do oba gschlofa.",
+   "lit": "",
+   "ms": 2162,
+   "clip": "audio/gsw/2534.mp3",
+   "enClip": "audio/en/9fa17b2a79a6e594.mp3"
+  },
+  {
+   "id": "2430",
+   "en": "I'd rather go with you lot than with them.",
+   "gsw": "I fahra liaber mit eu als mit ihna.",
+   "lit": "",
+   "ms": 3050,
+   "clip": "audio/gsw/2430.mp3",
+   "enClip": "audio/en/d3fd75220bf95add.mp3"
+  },
+  {
+   "id": "2615",
+   "en": "He's sitting at a computer.",
+   "gsw": "Er sitzt anem Computer.",
+   "lit": "",
+   "ms": 1810,
+   "clip": "audio/gsw/2615.mp3",
+   "enClip": "audio/en/1adba6617945e939.mp3"
+  },
+  {
+   "id": "2424",
+   "en": "I just don't feel like doing that.",
+   "gsw": "I han eifach kei Lust zum das macha.",
+   "lit": "",
+   "ms": 2810,
+   "clip": "audio/gsw/2424.mp3",
+   "enClip": "audio/en/c9ce3f581c3c35f9.mp3"
+  },
+  {
+   "id": "5572",
+   "en": "It's twenty-five past eleven now.",
+   "gsw": "Jetzt isch es füfazwanzig ab ölfi.",
+   "lit": "twenty-five from eleven",
+   "ms": 1965,
+   "clip": "audio/gsw/5572.mp3",
+   "enClip": "audio/en/9207939a4455c23a.mp3"
+  },
+  {
+   "id": "1228",
+   "en": "April is doing whatever it likes again.",
+   "gsw": "Dr April macht wieder mol was er will.",
+   "lit": "",
+   "ms": 2136,
+   "clip": "audio/gsw/1228.mp3",
+   "enClip": "audio/en/214a8419e0d40fc0.mp3"
+  },
+  {
+   "id": "4033",
+   "en": "Worried about her daughter, she tries to reach her on her mobile.",
+   "gsw": "Besorgt um ihri Tochter probiart sie sie uffam Handy z erreicha.",
+   "lit": "",
+   "ms": 3526,
+   "clip": "audio/gsw/4033.mp3",
+   "enClip": "audio/en/4f9fabca8832f923.mp3"
+  },
+  {
+   "id": "1693",
+   "en": "You come in from upstairs, I've left the door open.",
+   "gsw": "Du kusch vu oba ina, i han d Tüür offa gloh.",
+   "lit": "",
+   "ms": 2590,
+   "clip": "audio/gsw/1693.mp3",
+   "enClip": "audio/en/253ff74f1c1cdbf3.mp3"
+  },
+  {
+   "id": "2748",
+   "en": "Only she didn't understand why.",
+   "gsw": "Nur het sie nit verstanda, warum.",
+   "lit": "",
+   "ms": 1983,
+   "clip": "audio/gsw/2748.mp3",
+   "enClip": "audio/en/5234eb3a880ce348.mp3"
+  },
+  {
+   "id": "2706",
+   "en": "You asked her to do that?",
+   "gsw": "Du hesch sie bota das ztua?",
+   "lit": "",
+   "ms": 1816,
+   "clip": "audio/gsw/2706.mp3",
+   "enClip": "audio/en/6cbed355ac922d4f.mp3"
+  },
+  {
+   "id": "2704",
+   "en": "He asked me for that favour.",
+   "gsw": "Er het mi um de Gfalla bota.",
+   "lit": "",
+   "ms": 1870,
+   "clip": "audio/gsw/2704.mp3",
+   "enClip": "audio/en/67701196631bbdc0.mp3"
+  },
+  {
+   "id": "1062",
+   "en": "I should always keep an eye on him.",
+   "gsw": "I sött immer uf ihn ufpassa.",
+   "lit": "",
+   "ms": 2170,
+   "clip": "audio/gsw/1062.mp3",
+   "enClip": "audio/en/1da0a6ae54d86920.mp3"
+  },
+  {
+   "id": "2584",
+   "en": "Never seen her before.",
+   "gsw": "Han sie vorher nia gseh.",
+   "lit": "",
+   "ms": 1850,
+   "clip": "audio/gsw/2584.mp3",
+   "enClip": "audio/en/59e11f557c1e59e3.mp3"
+  },
+  {
+   "id": "2745",
+   "en": "Of course he doesn't understand it.",
+   "gsw": "Natürlich verstoht ers nit.",
+   "lit": "",
+   "ms": 2170,
+   "clip": "audio/gsw/2745.mp3",
+   "enClip": "audio/en/b8c2416f86f3b12f.mp3"
+  },
+  {
+   "id": "2235",
+   "en": "The teacher rang me this morning and told me everything.",
+   "gsw": "D Lehrerin het mi hüüt am Morga aglüta und miar alles verzellt.",
+   "lit": "verzella = tell",
+   "ms": 3698,
+   "clip": "audio/gsw/2235.mp3",
+   "enClip": "audio/en/92771dc0c94264b8.mp3"
+  },
+  {
+   "id": "2392",
+   "en": "You go from house to house and ring the doorbell.",
+   "gsw": "Ma goht vo Huus zu Huus und lüütet an dr Tür.",
+   "lit": "",
+   "ms": 2791,
+   "clip": "audio/gsw/2392.mp3",
+   "enClip": "audio/en/e8eb7d9d61adba75.mp3"
+  },
+  {
+   "id": "1180",
+   "en": "I wish you a lovely evening.",
+   "gsw": "I wünscha Ihna an schöna Obig.",
+   "lit": "Obig = evening",
+   "ms": 1760,
+   "clip": "audio/gsw/1180.mp3",
+   "enClip": "audio/en/423d267c3d33fc65.mp3"
+  },
+  {
+   "id": "84",
+   "en": "The sun stays with us until mid-afternoon.",
+   "gsw": "D Sunna bliibt üs erhalta und zwor bis Mitti Nomittag.",
+   "lit": "",
+   "ms": 3140,
+   "clip": "audio/gsw/84.mp3",
+   "enClip": "audio/en/cc3ae65069d070a2.mp3"
+  },
+  {
+   "id": "4050",
+   "en": "Look at my beautiful nose.",
+   "gsw": "Luagend mini schön Nasa.",
+   "lit": "",
+   "ms": 1789,
+   "clip": "audio/gsw/4050.mp3",
+   "enClip": "audio/en/d6bcb8a56409d345.mp3"
+  },
+  {
+   "id": "2415",
+   "en": "Every morning he slips quietly out of the house while everyone else is asleep.",
+   "gsw": "Er goht jeda Morga liislig ussem Huus während alli andera schlofend.",
+   "lit": "liislig = quietly",
+   "ms": 4370,
+   "clip": "audio/gsw/2415.mp3",
+   "enClip": "audio/en/c54857ad822b8a39.mp3"
+  },
+  {
+   "id": "2536",
+   "en": "She's still fast asleep.",
+   "gsw": "Sie schloft immer no tüüf.",
+   "lit": "",
+   "ms": 1883,
+   "clip": "audio/gsw/2536.mp3",
+   "enClip": "audio/en/66234192b968d6ef.mp3"
+  },
+  {
+   "id": "68",
+   "en": "But be quiet, the little one is asleep.",
+   "gsw": "Aber sigend sie liislig, die Klii schloft.",
+   "lit": "liislig = quietly",
+   "ms": 2930,
+   "clip": "audio/gsw/68.mp3",
+   "enClip": "audio/en/d11685a192b2bca9.mp3"
+  },
+  {
+   "id": "2371",
+   "en": "He's been asleep for hours, because he worked hard yesterday.",
+   "gsw": "Er schloft scho siit Stunda, will er gester hart gschafft het.",
+   "lit": "",
+   "ms": 3890,
+   "clip": "audio/gsw/2371.mp3",
+   "enClip": "audio/en/13647c642f38c48e.mp3"
+  },
+  {
+   "id": "2612",
+   "en": "Someone was sitting up there before the break.",
+   "gsw": "Döt doba isch vor dr Pausa öppert gsessa.",
+   "lit": "",
+   "ms": 2570,
+   "clip": "audio/gsw/2612.mp3",
+   "enClip": "audio/en/e51f890f0afbfdb5.mp3"
+  },
+  {
+   "id": "2308",
+   "en": "In winter people go skating on the lake.",
+   "gsw": "Im Winter tuat ma uffem See Schlittschuahlaufa.",
+   "lit": "",
+   "ms": 2940,
+   "clip": "audio/gsw/2308.mp3",
+   "enClip": "audio/en/4aa27d5db43d1b3c.mp3"
+  },
+  {
+   "id": "4720",
+   "en": "Here and there there'll be a bit of snow at the weekend.",
+   "gsw": "Do und döt wirds am Wuchanend as bizli Schnee geh.",
+   "lit": "Wuchanend = weekend",
+   "ms": 2654,
+   "clip": "audio/gsw/4720.mp3",
+   "enClip": "audio/en/3181339cdd6219a7.mp3"
+  },
+  {
+   "id": "1160",
+   "en": "Tomorrow too it'll be about twelve to fifteen degrees.",
+   "gsw": "Es git au mora öpa zwölf bis fufzehn Grad.",
+   "lit": "",
+   "ms": 3080,
+   "clip": "audio/gsw/1160.mp3",
+   "enClip": "audio/en/51b79c1736727d17.mp3"
+  },
+  {
+   "id": "1777",
+   "en": "He always eats everything.",
+   "gsw": "Er isst immer alles weg.",
+   "lit": "",
+   "ms": 1570,
+   "clip": "audio/gsw/1777.mp3",
+   "enClip": "audio/en/a9ad001c311d8cb6.mp3"
+  },
+  {
+   "id": "1699",
+   "en": "I'm waiting in front of the gate.",
+   "gsw": "I warta vor am Tor.",
+   "lit": "",
+   "ms": 1330,
+   "clip": "audio/gsw/1699.mp3",
+   "enClip": "audio/en/88123c95e833e9ae.mp3"
+  },
+  {
+   "id": "1772",
+   "en": "You'll find the suitcase down there.",
+   "gsw": "Du findisch dr Koffer döt dunna.",
+   "lit": "döt dunna = there below",
+   "ms": 2050,
+   "clip": "audio/gsw/1772.mp3",
+   "enClip": "audio/en/f91b853575b6869d.mp3"
+  },
+  {
+   "id": "1196",
+   "en": "The summer's staying hot.",
+   "gsw": "Dr Summer bliibt heiss.",
+   "lit": "",
+   "ms": 1547,
+   "clip": "audio/gsw/1196.mp3",
+   "enClip": "audio/en/3a9404f1571e9828.mp3"
+  },
+  {
+   "id": "960",
+   "en": "In another marriage she had one more daughter.",
+   "gsw": "Inara wiitera Ehe het sie no a Tochter kah.",
+   "lit": "",
+   "ms": 2770,
+   "clip": "audio/gsw/960.mp3",
+   "enClip": "audio/en/036ac9f3f4030f9c.mp3"
+  },
+  {
+   "id": "2209",
+   "en": "That evening the two of us went out.",
+   "gsw": "Miar sind an dem Obig ds zweita weg ganga.",
+   "lit": "",
+   "ms": 2870,
+   "clip": "audio/gsw/2209.mp3",
+   "enClip": "audio/en/abafaa445a3ead46.mp3"
+  },
+  {
+   "id": "2705",
+   "en": "She's only just asked me to bring her the tea.",
+   "gsw": "Sie het mi erst bota ihra dr Tee zbringa.",
+   "lit": "",
+   "ms": 2410,
+   "clip": "audio/gsw/2705.mp3",
+   "enClip": "audio/en/e7d84cbd898f448d.mp3"
+  },
+  {
+   "id": "639",
+   "en": "I'm bringing you wine and cake, open up!",
+   "gsw": "I bringa diar Wii und Kuacha, mach uuf!",
+   "lit": "",
+   "ms": 2410,
+   "clip": "audio/gsw/639.mp3",
+   "enClip": "audio/en/239706ac9445e1c1.mp3"
+  },
+  {
+   "id": "4998",
+   "en": "Are you talking to that idiot?",
+   "gsw": "Redisch du mit dem Lööli?",
+   "lit": "Lööli = idiot",
+   "ms": 1543,
+   "clip": "audio/gsw/4998.mp3",
+   "enClip": "audio/en/f220318e071fcb8a.mp3"
+  },
+  {
+   "id": "5040",
+   "en": "I'm so hungry, let's go and eat something.",
+   "gsw": "I han sona Hunger, gömmer öpis go puttna.",
+   "lit": "puttna = to eat (slang); gömmer = let's go",
+   "ms": 2417,
+   "clip": "audio/gsw/5040.mp3",
+   "enClip": "audio/en/5d5ae268fd852a24.mp3"
+  },
+  {
+   "id": "2695",
+   "en": "But maybe it really is over the top.",
+   "gsw": "Aber viellicht isch es tatsächlich übertrieba.",
+   "lit": "",
+   "ms": 2477,
+   "clip": "audio/gsw/2695.mp3",
+   "enClip": "audio/en/7f693cec1f8d799c.mp3"
+  },
+  {
+   "id": "2697",
+   "en": "But that's probably a bit over the top.",
+   "gsw": "Aber das döffti doch wohl as bizli übertrieba sii.",
+   "lit": "",
+   "ms": 2957,
+   "clip": "audio/gsw/2697.mp3",
+   "enClip": "audio/en/71f2cc7a243eacf5.mp3"
+  },
+  {
+   "id": "2559",
+   "en": "Do you even work fast enough for this job?",
+   "gsw": "Schaffsch du überhaupt gnuag schnell für die Job?",
+   "lit": "",
+   "ms": 2373,
+   "clip": "audio/gsw/2559.mp3",
+   "enClip": "audio/en/0a3cfc1e2d688d1f.mp3"
+  },
+  {
+   "id": "2999",
+   "en": "Still, they stayed in touch.",
+   "gsw": "Allerdings sind sie mitanand in Kontakt blieba.",
+   "lit": "",
+   "ms": 2655,
+   "clip": "audio/gsw/2999.mp3",
+   "enClip": "audio/en/dd552b0e6c7b3aef.mp3"
+  },
+  {
+   "id": "623",
+   "en": "Take that out to Grandmother.",
+   "gsw": "Bring das dr Grossmuater ussa.",
+   "lit": "",
+   "ms": 2350,
+   "clip": "audio/gsw/623.mp3",
+   "enClip": "audio/en/30a287a36b0fe9ff.mp3"
+  },
+  {
+   "id": "645",
+   "en": "Grandmother, what big eyes you have!",
+   "gsw": "Grossmuatter, was hesch du für grossi Auga!",
+   "lit": "",
+   "ms": 2298,
+   "clip": "audio/gsw/645.mp3",
+   "enClip": "audio/en/83bdf735b5ba177c.mp3"
+  },
+  {
+   "id": "168",
+   "en": "Grandmother, what big hands you have!",
+   "gsw": "Grossmuater, was hesch du für grossi Händ!",
+   "lit": "",
+   "ms": 2182,
+   "clip": "audio/gsw/168.mp3",
+   "enClip": "audio/en/a8f3c835bc96782e.mp3"
+  },
+  {
+   "id": "647",
+   "en": "Grandmother, what a big mouth you have!",
+   "gsw": "Grossmuater, was hesch du für as grosses Muul!",
+   "lit": "",
+   "ms": 2650,
+   "clip": "audio/gsw/647.mp3",
+   "enClip": "audio/en/3c8f702acfaabcaa.mp3"
+  },
+  {
+   "id": "1786",
+   "en": "Back then he won clearly.",
+   "gsw": "Er het damals dütich gwunna.",
+   "lit": "",
+   "ms": 1690,
+   "clip": "audio/gsw/1786.mp3",
+   "enClip": "audio/en/c5d070fca4ca9679.mp3"
+  },
+  {
+   "id": "2262",
+   "en": "Don't always shout out straight away, it really gets on my nerves.",
+   "gsw": "Rüaf doch nit immer grad uus, das goht mer scho sehr ufd Nerva.",
+   "lit": "",
+   "ms": 3798,
+   "clip": "audio/gsw/2262.mp3",
+   "enClip": "audio/en/42955c800144e196.mp3"
+  },
+  {
+   "id": "2709",
+   "en": "I'm just moving into the old house.",
+   "gsw": "I zügla grad ins alta Huus.",
+   "lit": "zügla = to move house",
+   "ms": 2350,
+   "clip": "audio/gsw/2709.mp3",
+   "enClip": "audio/en/3111a54c9b7785f8.mp3"
+  },
+  {
+   "id": "1840",
+   "en": "Hardly any clouds in the evening.",
+   "gsw": "Am Obig kuum Wolka.",
+   "lit": "",
+   "ms": 1818,
+   "clip": "audio/gsw/1840.mp3",
+   "enClip": "audio/en/e0750011b36c4c9d.mp3"
+  },
+  {
+   "id": "1891",
+   "en": "In the evening, only the odd cloud.",
+   "gsw": "Am Obig nur selta Wolka.",
+   "lit": "",
+   "ms": 1830,
+   "clip": "audio/gsw/1891.mp3",
+   "enClip": "audio/en/d1b18faa4682b95d.mp3"
+  },
+  {
+   "id": "1838",
+   "en": "In the evening, clear with few clouds.",
+   "gsw": "Am Obig klar mit weniga Wolka.",
+   "lit": "",
+   "ms": 2190,
+   "clip": "audio/gsw/1838.mp3",
+   "enClip": "audio/en/8a7b9cd84135bfc8.mp3"
+  },
+  {
+   "id": "1876",
+   "en": "At the weekend the sun often shines, despite some clouds.",
+   "gsw": "Am Wuchanend schiint trotz einiga Wolka oft d Sunna.",
+   "lit": "",
+   "ms": 2907,
+   "clip": "audio/gsw/1876.mp3",
+   "enClip": "audio/en/d2baf67cf2ae1877.mp3"
+  },
+  {
+   "id": "3073",
+   "en": "As long as Grandpa's still alive, we can't sell the house.",
+   "gsw": "Solang dr Grosspapa no isch, kömmer ds Huus nit verkaufa.",
+   "lit": "",
+   "ms": 3331,
+   "clip": "audio/gsw/3073.mp3",
+   "enClip": "audio/en/5813656e8053e083.mp3"
+  },
+  {
+   "id": "2671",
+   "en": "What are you looking for here?",
+   "gsw": "Was suachsch du denn do?",
+   "lit": "",
+   "ms": 1750,
+   "clip": "audio/gsw/2671.mp3",
+   "enClip": "audio/en/fb2a3ec3493f502c.mp3"
+  },
+  {
+   "id": "5042",
+   "en": "My grandad survived the war.",
+   "gsw": "Min Neni het dr Kriag überlebt.",
+   "lit": "",
+   "ms": 1957,
+   "clip": "audio/gsw/5042.mp3",
+   "enClip": "audio/en/0e12b668a3d919f4.mp3"
+  },
+  {
+   "id": "5549",
+   "en": "I'm not sure, but I'm doing my best to learn.",
+   "gsw": "I bin miar nit sicher, aber i gib mis Besta, z lerna.",
+   "lit": "",
+   "ms": 2798,
+   "clip": "audio/gsw/5549.mp3",
+   "enClip": "audio/en/cdcdae3147029d91.mp3"
+  },
+  {
+   "id": "4973",
+   "en": "Since he's had a girlfriend he's got quite chubby.",
+   "gsw": "Siit er a Fründin het ischer an rechta Muttli.",
+   "lit": "Muttli = chubby person",
+   "ms": 2562,
+   "clip": "audio/gsw/4973.mp3",
+   "enClip": "audio/en/b545194251d7148b.mp3"
+  },
+  {
+   "id": "2644",
+   "en": "She loved him, he'd felt that.",
+   "gsw": "Sie het ihn gliabt, das hetter gspürt.",
+   "lit": "",
+   "ms": 2290,
+   "clip": "audio/gsw/2644.mp3",
+   "enClip": "audio/en/929f9b24c0cad9f6.mp3"
+  },
+  {
+   "id": "1144",
+   "en": "It's still really warm in Ticino, at eighteen degrees.",
+   "gsw": "Richtig warm isch es wiiterhin im Tessin mit achtzehn Grad.",
+   "lit": "",
+   "ms": 3200,
+   "clip": "audio/gsw/1144.mp3",
+   "enClip": "audio/en/e56c3ca784403d8a.mp3"
+  },
+  {
+   "id": "5000",
+   "en": "You have to stop being so negative.",
+   "gsw": "Du muasch höra sona leida z sii.",
+   "lit": "",
+   "ms": 1814,
+   "clip": "audio/gsw/5000.mp3",
+   "enClip": "audio/en/463a81f828e1d7b3.mp3"
+  },
+  {
+   "id": "5015",
+   "en": "Leave my cat alone or I'll beat you all up.",
+   "gsw": "Löhn mini Katz in Ruah oder i verplütsch eu alli.",
+   "lit": "verplütscha = beat up",
+   "ms": 2804,
+   "clip": "audio/gsw/5015.mp3",
+   "enClip": "audio/en/d7c1dcef8d7c1c8a.mp3"
+  },
+  {
+   "id": "2687",
+   "en": "I'll hit you on the arm if you don't keep quiet now.",
+   "gsw": "I treffa di am Arm, wenn du jetzt nit still bisch.",
+   "lit": "",
+   "ms": 2710,
+   "clip": "audio/gsw/2687.mp3",
+   "enClip": "audio/en/b1dd29d084a98439.mp3"
+  },
+  {
+   "id": "4969",
+   "en": "Yes, Thomas really is an idiot.",
+   "gsw": "Jo, dr Thomas isch würkli an Kalöri.",
+   "lit": "Kalöri = idiot",
+   "ms": 2354,
+   "clip": "audio/gsw/4969.mp3",
+   "enClip": "audio/en/b3bf1a05747c8cb2.mp3"
+  },
+  {
+   "id": "5005",
+   "en": "I want nothing to do with that idiot!",
+   "gsw": "I will nüt mit dem Nock z tua ha.",
+   "lit": "Nock = idiot",
+   "ms": 2239,
+   "clip": "audio/gsw/5005.mp3",
+   "enClip": "audio/en/1c47d0668cd85fd1.mp3"
+  },
+  {
+   "id": "5543",
+   "en": "Maybe you need to say that differently.",
+   "gsw": "Möglicherwiis muasch du das anders sega.",
+   "lit": "",
+   "ms": 2294,
+   "clip": "audio/gsw/5543.mp3",
+   "enClip": "audio/en/1fa5d4dd0469a703.mp3"
+  },
+  {
+   "id": "5535",
+   "en": "I'm not sure how I should answer that.",
+   "gsw": "I bin miar nit sicher wia i das beantworta söll.",
+   "lit": "",
+   "ms": 2627,
+   "clip": "audio/gsw/5535.mp3",
+   "enClip": "audio/en/5bcc8be7cf739504.mp3"
+  },
+  {
+   "id": "169",
+   "en": "All the better to grab you with!",
+   "gsw": "Dass i di besser packa kann!",
+   "lit": "",
+   "ms": 1644,
+   "clip": "audio/gsw/169.mp3",
+   "enClip": "audio/en/ec64048e0ed8bae6.mp3"
+  },
+  {
+   "id": "3544",
+   "en": "The girl gladly wanted to help the woman, and stayed there.",
+   "gsw": "Ds Meitli het dr Frau gern wella helfa und isch döt blieba.",
+   "lit": "",
+   "ms": 3032,
+   "clip": "audio/gsw/3544.mp3",
+   "enClip": "audio/en/079a54e510233f5d.mp3"
+  },
+  {
+   "id": "46",
+   "en": "So I got undressed in front of the doctor.",
+   "gsw": "I han mi also vor em Arzt abzoga.",
+   "lit": "",
+   "ms": 2570,
+   "clip": "audio/gsw/46.mp3",
+   "enClip": "audio/en/3fd60915582f2e85.mp3"
+  },
+  {
+   "id": "4964",
+   "en": "Shut your trap, for once!",
+   "gsw": "Heb endlich din Latz!",
+   "lit": "Latz = trap, gob",
+   "ms": 1549,
+   "clip": "audio/gsw/4964.mp3",
+   "enClip": "audio/en/8267234b4f8480a1.mp3"
+  },
+  {
+   "id": "4963",
+   "en": "I really fell flat on my face.",
+   "gsw": "I bin richtig uf da Latz keit.",
+   "lit": "keia = to fall",
+   "ms": 1984,
+   "clip": "audio/gsw/4963.mp3",
+   "enClip": "audio/en/3d2f86b380817fd8.mp3"
+  },
+  {
+   "id": "2560",
+   "en": "You should have seen how fast he worked.",
+   "gsw": "Du hettisch gseh müassa, wia schnell er gschafft het.",
+   "lit": "",
+   "ms": 2654,
+   "clip": "audio/gsw/2560.mp3",
+   "enClip": "audio/en/457f22aa28dda5b7.mp3"
+  },
+  {
+   "id": "1700",
+   "en": "You wait until we're here.",
+   "gsw": "Du wartisch, bis miar do sind.",
+   "lit": "",
+   "ms": 1666,
+   "clip": "audio/gsw/1700.mp3",
+   "enClip": "audio/en/2b8c19102436b19b.mp3"
+  },
+  {
+   "id": "218",
+   "en": "If you wait any longer, I'll come in and get you, said Adam.",
+   "gsw": "Wenn du no länger wartisch, kummi ina und hol di, het dr Adam gseit.",
+   "lit": "",
+   "ms": 3770,
+   "clip": "audio/gsw/218.mp3",
+   "enClip": "audio/en/674bc7e91879fc1f.mp3"
+  },
+  {
+   "id": "1776",
+   "en": "I've been eating quite a lot lately.",
+   "gsw": "I essa in letschter Ziit ziemlich viel.",
+   "lit": "",
+   "ms": 2470,
+   "clip": "audio/gsw/1776.mp3",
+   "enClip": "audio/en/b7ad8da8e048dcec.mp3"
+  },
+  {
+   "id": "5564",
+   "en": "It's quarter past three.",
+   "gsw": "Es isch viertel ab drei.",
+   "lit": "",
+   "ms": 1445,
+   "clip": "audio/gsw/5564.mp3",
+   "enClip": "audio/en/f9c73247fb28d80d.mp3"
+  },
+  {
+   "id": "5567",
+   "en": "It's quarter to six.",
+   "gsw": "Es isch viertel vor sechsi.",
+   "lit": "",
+   "ms": 1605,
+   "clip": "audio/gsw/5567.mp3",
+   "enClip": "audio/en/0bae7e65d0ba20ba.mp3"
+  },
+  {
+   "id": "5575",
+   "en": "It's quarter to four.",
+   "gsw": "Es isch viertel vor vieri.",
+   "lit": "",
+   "ms": 1538,
+   "clip": "audio/gsw/5575.mp3",
+   "enClip": "audio/en/a43a75c7d9742268.mp3"
+  },
+  {
+   "id": "2538",
+   "en": "Otherwise I fall asleep in the afternoon.",
+   "gsw": "Sus schlof i am Nomittag ii.",
+   "lit": "sus = otherwise",
+   "ms": 2360,
+   "clip": "audio/gsw/2538.mp3",
+   "enClip": "audio/en/3bb57f52f14e491f.mp3"
+  },
+  {
+   "id": "1725",
+   "en": "I didn't throw a stone.",
+   "gsw": "I han kei Stei gworfa.",
+   "lit": "",
+   "ms": 1750,
+   "clip": "audio/gsw/1725.mp3",
+   "enClip": "audio/en/6b3efcb9b148617d.mp3"
+  },
+  {
+   "id": "633",
+   "en": "\"Good!\" thought the wolf.",
+   "gsw": "Guat! het sich dr Wolf denkt.",
+   "lit": "",
+   "ms": 2110,
+   "clip": "audio/gsw/633.mp3",
+   "enClip": "audio/en/a25b2ca13f53f596.mp3"
+  },
+  {
+   "id": "628",
+   "en": "In the forest she met the big bad wolf.",
+   "gsw": "Im Wald het sie uf da grossi bösi Wolf troffa.",
+   "lit": "",
+   "ms": 3200,
+   "clip": "audio/gsw/628.mp3",
+   "enClip": "audio/en/e98c2c73456b3bfc.mp3"
+  },
+  {
+   "id": "5573",
+   "en": "It's half past eight right now.",
+   "gsw": "Aktuell isches halb nüni.",
+   "lit": "half nine (= 8:30)",
+   "ms": 1659,
+   "clip": "audio/gsw/5573.mp3",
+   "enClip": "audio/en/d4e8accf7f1aee92.mp3"
+  },
+  {
+   "id": "5563",
+   "en": "It's quarter past two right now.",
+   "gsw": "Aktuell isches viertel ab zwei.",
+   "lit": "quarter from two",
+   "ms": 1937,
+   "clip": "audio/gsw/5563.mp3",
+   "enClip": "audio/en/32b4bccb8f215b5e.mp3"
+  },
+  {
+   "id": "5566",
+   "en": "It's quarter to five right now.",
+   "gsw": "Aktuell isches viertel vor füfi.",
+   "lit": "",
+   "ms": 1980,
+   "clip": "audio/gsw/5566.mp3",
+   "enClip": "audio/en/01565e41eb628bc5.mp3"
+  },
+  {
+   "id": "5569",
+   "en": "It's ten past ten right now.",
+   "gsw": "Aktuell isches zehn ab zehni.",
+   "lit": "ten from ten",
+   "ms": 1839,
+   "clip": "audio/gsw/5569.mp3",
+   "enClip": "audio/en/fe167680823a9974.mp3"
+  },
+  {
+   "id": "78",
+   "en": "But she danced with him.",
+   "gsw": "Aber sie het mi ihm tanzt.",
+   "lit": "",
+   "ms": 1894,
+   "clip": "audio/gsw/78.mp3",
+   "enClip": "audio/en/9e91d2960933c1f7.mp3"
+  },
+  {
+   "id": "2677",
+   "en": "There was dancing in the streets.",
+   "gsw": "In da Strossa isch tanzt worda.",
+   "lit": "",
+   "ms": 2170,
+   "clip": "audio/gsw/2677.mp3",
+   "enClip": "audio/en/11c53cc5822366f8.mp3"
+  },
+  {
+   "id": "80",
+   "en": "We had a drink to relax.",
+   "gsw": "Hend öpis trunka zum üüs entspanna.",
+   "lit": "",
+   "ms": 2230,
+   "clip": "audio/gsw/80.mp3",
+   "enClip": "audio/en/4736fb20bf203937.mp3"
+  },
+  {
+   "id": "2539",
+   "en": "Old friend, you're falling asleep now.",
+   "gsw": "Alta Fründ, du schlofsch jetzt ii.",
+   "lit": "",
+   "ms": 2194,
+   "clip": "audio/gsw/2539.mp3",
+   "enClip": "audio/en/62fdef7162d8e491.mp3"
+  },
+  {
+   "id": "2631",
+   "en": "I've saved a bit of money.",
+   "gsw": "I han as bizali Geld gspart.",
+   "lit": "bizali = a little bit",
+   "ms": 1820,
+   "clip": "audio/gsw/2631.mp3",
+   "enClip": "audio/en/8e965770dbaa3712.mp3"
+  },
+  {
+   "id": "2563",
+   "en": "It hurts and I'm screaming.",
+   "gsw": "Es tuat weh und i schreia.",
+   "lit": "",
+   "ms": 1934,
+   "clip": "audio/gsw/2563.mp3",
+   "enClip": "audio/en/5b06f81f8db047f6.mp3"
+  },
+  {
+   "id": "2315",
+   "en": "He gave her a fright.",
+   "gsw": "Er het sie verschrocka.",
+   "lit": "",
+   "ms": 1787,
+   "clip": "audio/gsw/2315.mp3",
+   "enClip": "audio/en/0e20937400a3b6c6.mp3"
+  },
+  {
+   "id": "2725",
+   "en": "In case I lose.",
+   "gsw": "Für da Fall, dass i verlüüra.",
+   "lit": "",
+   "ms": 1930,
+   "clip": "audio/gsw/2725.mp3",
+   "enClip": "audio/en/c735a8314494abbe.mp3"
+  },
+  {
+   "id": "2216",
+   "en": "Just before his birthday he cut his hair.",
+   "gsw": "Kurz vor sinem Geburtstag het er sich dHoor abgschnitta.",
+   "lit": "",
+   "ms": 3107,
+   "clip": "audio/gsw/2216.mp3",
+   "enClip": "audio/en/2cae210fba4f7ed3.mp3"
+  },
+  {
+   "id": "2276",
+   "en": "You'd better take those off anyway.",
+   "gsw": "Du züüchsch dia gliich besser ab.",
+   "lit": "abzücha = take off (clothes)",
+   "ms": 2450,
+   "clip": "audio/gsw/2276.mp3",
+   "enClip": "audio/en/4c59e80f62e7b175.mp3"
+  },
+  {
+   "id": "238",
+   "en": "Monday sun, but also a bit of fog.",
+   "gsw": "Am Mentig Sunna, aber au es biz Nebel.",
+   "lit": "Mentig = Monday",
+   "ms": 2370,
+   "clip": "audio/gsw/238.mp3",
+   "enClip": "audio/en/4586e6c5cfe8c21f.mp3"
+  },
+  {
+   "id": "1235",
+   "en": "There's hardly any chance of sun there, the fog's staying put.",
+   "gsw": "Döt bestoht kuum Chance für Sunna, dr Nebel blibt eba ligga.",
+   "lit": "",
+   "ms": 3474,
+   "clip": "audio/gsw/1235.mp3",
+   "enClip": "audio/en/f925292e591a0ee6.mp3"
+  },
+  {
+   "id": "4754",
+   "en": "During the party I didn't really notice the stress.",
+   "gsw": "Während am Fest han i dr Stress nit so fest wohr gnoh.",
+   "lit": "",
+   "ms": 2839,
+   "clip": "audio/gsw/4754.mp3",
+   "enClip": "audio/en/7c97a661ea11349a.mp3"
+  },
+  {
+   "id": "2370",
+   "en": "She works very hard for her daily bread.",
+   "gsw": "Sie schafft sehr hart für ihres täglich Brot.",
+   "lit": "",
+   "ms": 2701,
+   "clip": "audio/gsw/2370.mp3",
+   "enClip": "audio/en/d9cffd0699dc2649.mp3"
+  },
+  {
+   "id": "2589",
+   "en": "We just hurried.",
+   "gsw": "Miar hend eifach pressiart.",
+   "lit": "pressiara = to hurry",
+   "ms": 1534,
+   "clip": "audio/gsw/2589.mp3",
+   "enClip": "audio/en/479ed7e19659fee7.mp3"
+  },
+  {
+   "id": "4981",
+   "en": "You've got an amazingly big head in this photo.",
+   "gsw": "Du hesch an erstuunlich grossa Pölli uf dem Foti.",
+   "lit": "Pölli = head (slang); Foti = photo",
+   "ms": 2667,
+   "clip": "audio/gsw/4981.mp3",
+   "enClip": "audio/en/8caac6bc234b73dd.mp3"
+  },
+  {
+   "id": "5039",
+   "en": "After training we'll go and eat something nice.",
+   "gsw": "Noch am Training gömmer öpis feins go puttna.",
+   "lit": "fein = tasty",
+   "ms": 2562,
+   "clip": "audio/gsw/5039.mp3",
+   "enClip": "audio/en/8c4881626a62901c.mp3"
+  },
+  {
+   "id": "2409",
+   "en": "Then just call me, loudly.",
+   "gsw": "Denn rüafsch mi eifach luut.",
+   "lit": "",
+   "ms": 1690,
+   "clip": "audio/gsw/2409.mp3",
+   "enClip": "audio/en/6924b4511f4f4789.mp3"
+  },
+  {
+   "id": "1153",
+   "en": "It'll hang on a bit into Thursday too.",
+   "gsw": "Es hebt au no as bizali in da Donnstig ina.",
+   "lit": "",
+   "ms": 2540,
+   "clip": "audio/gsw/1153.mp3",
+   "enClip": "audio/en/a16324b6c9375be5.mp3"
+  },
+  {
+   "id": "1048",
+   "en": "So the fish can swim through the whole sea without fear.",
+   "gsw": "So könn dia Fisch ohni Angst dur ds ganza Meer schwimma.",
+   "lit": "",
+   "ms": 3070,
+   "clip": "audio/gsw/1048.mp3",
+   "enClip": "audio/en/61dea371bbd7cdb5.mp3"
+  },
+  {
+   "id": "2676",
+   "en": "She dances with anyone who pays for it.",
+   "gsw": "Sie tanzt mit jedem, wo drfür zahlt.",
+   "lit": "",
+   "ms": 2258,
+   "clip": "audio/gsw/2676.mp3",
+   "enClip": "audio/en/7510f43d887f9447.mp3"
+  },
+  {
+   "id": "649",
+   "en": "The hunter heard that as he walked past the house.",
+   "gsw": "Das het dr Jäger ghört, wo am Huus verbii ganga isch.",
+   "lit": "",
+   "ms": 3032,
+   "clip": "audio/gsw/649.mp3",
+   "enClip": "audio/en/6f9ed74eb8ce7d8a.mp3"
+  },
+  {
+   "id": "4974",
+   "en": "Don't eat so much chocolate, or you'll get chubby.",
+   "gsw": "Iss nit so viel Schoggi, sus wirsch no en Muttli.",
+   "lit": "Schoggi = chocolate",
+   "ms": 2817,
+   "clip": "audio/gsw/4974.mp3",
+   "enClip": "audio/en/d66bdb2c6667f9cd.mp3"
+  },
+  {
+   "id": "2689",
+   "en": "I'll have a sip of beer.",
+   "gsw": "I trinka an Schluck Piar.",
+   "lit": "",
+   "ms": 1750,
+   "clip": "audio/gsw/2689.mp3",
+   "enClip": "audio/en/709fff7fd967a095.mp3"
+  },
+  {
+   "id": "1051",
+   "en": "He wants to see the world.",
+   "gsw": "Er möcht sich d Welt ahluaga.",
+   "lit": "",
+   "ms": 1741,
+   "clip": "audio/gsw/1051.mp3",
+   "enClip": "audio/en/d8abc21d96b9876d.mp3"
+  },
+  {
+   "id": "57",
+   "en": "Then he laughs at her and runs off.",
+   "gsw": "Denn lacht er si uus und springt drvoo.",
+   "lit": "",
+   "ms": 2630,
+   "clip": "audio/gsw/57.mp3",
+   "enClip": "audio/en/c7a44e313f115244.mp3"
+  },
+  {
+   "id": "2403",
+   "en": "Only once he'd made enough noise was he happy.",
+   "gsw": "Erst wenner gnuag Lärm gmacht het, isch er zfrieda gsi.",
+   "lit": "",
+   "ms": 3170,
+   "clip": "audio/gsw/2403.mp3",
+   "enClip": "audio/en/c0ec76f6a9212a94.mp3"
+  },
+  {
+   "id": "3065",
+   "en": "There were a few hard exercises in the homework.",
+   "gsw": "Es het as paar schweri Üabiga bi da Husufgaba geh.",
+   "lit": "",
+   "ms": 2982,
+   "clip": "audio/gsw/3065.mp3",
+   "enClip": "audio/en/4277fb70717347e6.mp3"
+  },
+  {
+   "id": "619",
+   "en": "Once upon a time there was a sweet girl who lived with her grandmother in the village.",
+   "gsw": "Es isch amol as herzig Meitli gsi, wo mit ihrera Grossmuatter uffam Dorft glebt het.",
+   "lit": "herzig = sweet",
+   "ms": 4690,
+   "clip": "audio/gsw/619.mp3",
+   "enClip": "audio/en/00d8f4a3a8c10d2c.mp3"
+  },
+  {
+   "id": "7570",
+   "en": "But she knows nothing about his dark secret either.",
+   "gsw": "Aber au sie weiss nüt vu sinem dunkla Gheimnis.",
+   "lit": "",
+   "ms": 2686,
+   "clip": "audio/gsw/7570.mp3",
+   "enClip": "audio/en/a32d9cd348e31108.mp3"
+  },
+  {
+   "id": "5001",
+   "en": "The idiot fell off his bike.",
+   "gsw": "De tschutsch isch vum Velo keit.",
+   "lit": "tschutsch = idiot; Velo = bike",
+   "ms": 1800,
+   "clip": "audio/gsw/5001.mp3",
+   "enClip": "audio/en/08e2e76bd8e3354f.mp3"
+  },
+  {
+   "id": "2368",
+   "en": "He's holding the bucket in his hand.",
+   "gsw": "Er hebt dr Kübel ir Hand.",
+   "lit": "",
+   "ms": 2157,
+   "clip": "audio/gsw/2368.mp3",
+   "enClip": "audio/en/0e0ed7cf810cd725.mp3"
+  },
+  {
+   "id": "5577",
+   "en": "It's twelve noon.",
+   "gsw": "Es isch zwölfi am Mittag.",
+   "lit": "",
+   "ms": 1601,
+   "clip": "audio/gsw/5577.mp3",
+   "enClip": "audio/en/33b6b2fc46dab6a0.mp3"
+  },
+  {
+   "id": "5629",
+   "en": "If you need a boat, you can borrow mine.",
+   "gsw": "Wenn du as Boot bruchsch kasch mis uslehna.",
+   "lit": "",
+   "ms": 2410,
+   "clip": "audio/gsw/5629.mp3",
+   "enClip": "audio/en/e40cc0ec0009c8de.mp3"
+  },
+  {
+   "id": "4999",
+   "en": "She's just a misery.",
+   "gsw": "Sie isch eifach a leidi.",
+   "lit": "leidi = a sour, annoying one",
+   "ms": 1494,
+   "clip": "audio/gsw/4999.mp3",
+   "enClip": "audio/en/f1852b9adbc5d70c.mp3"
+  },
+  {
+   "id": "2690",
+   "en": "You drink to forget.",
+   "gsw": "Du trinksch, zum vergessa.",
+   "lit": "",
+   "ms": 1570,
+   "clip": "audio/gsw/2690.mp3",
+   "enClip": "audio/en/f1dcc0ab67b282f1.mp3"
+  },
+  {
+   "id": "4967",
+   "en": "The bike is bloody heavy.",
+   "gsw": "Das Rad isch huara schwer.",
+   "lit": "huara = bloody (rude)",
+   "ms": 1914,
+   "clip": "audio/gsw/4967.mp3",
+   "enClip": "audio/en/ffe76a1148de09ed.mp3"
+  },
+  {
+   "id": "5534",
+   "en": "I don't understand that, but I learn new things every day.",
+   "gsw": "I verstohn das nit, aber i lerna jeda Tag neui Sacha.",
+   "lit": "",
+   "ms": 3255,
+   "clip": "audio/gsw/5534.mp3",
+   "enClip": "audio/en/e60121c7bdf300e2.mp3"
+  },
+  {
+   "id": "1784",
+   "en": "I never win otherwise.",
+   "gsw": "I gwünna sus nia.",
+   "lit": "",
+   "ms": 1466,
+   "clip": "audio/gsw/1784.mp3",
+   "enClip": "audio/en/3062d405ca290b2c.mp3"
+  },
+  {
+   "id": "1787",
+   "en": "I'm winning this game right now.",
+   "gsw": "I gwinna das Spiel grad.",
+   "lit": "",
+   "ms": 1510,
+   "clip": "audio/gsw/1787.mp3",
+   "enClip": "audio/en/227c56175b9184a5.mp3"
+  },
+  {
+   "id": "1142",
+   "en": "Otherwise it'll be dry again tomorrow.",
+   "gsw": "Sus isch es denn Morn wieder trocha.",
+   "lit": "morn = tomorrow",
+   "ms": 2180,
+   "clip": "audio/gsw/1142.mp3",
+   "enClip": "audio/en/4b41df517a32228a.mp3"
+  },
+  {
+   "id": "5043",
+   "en": "My gran's still fit.",
+   "gsw": "Mis Nani isch immerno fit.",
+   "lit": "Nani = gran (Graubünden)",
+   "ms": 1726,
+   "clip": "audio/gsw/5043.mp3",
+   "enClip": "audio/en/d702e116e9ef5fcf.mp3"
+  },
+  {
+   "id": "5044",
+   "en": "My gran's scared of cats.",
+   "gsw": "Mis Nani het Angst vor Katza.",
+   "lit": "",
+   "ms": 1907,
+   "clip": "audio/gsw/5044.mp3",
+   "enClip": "audio/en/e1a424a9fdf510ea.mp3"
+  },
+  {
+   "id": "3023",
+   "en": "Since the blow to the head she can't smell any more.",
+   "gsw": "Sit dem Schlag uf da Kopf kann sie nüm schmöcka.",
+   "lit": "schmöcka = smell",
+   "ms": 2626,
+   "clip": "audio/gsw/3023.mp3",
+   "enClip": "audio/en/9f7991e09938f7c6.mp3"
+  },
+  {
+   "id": "5012",
+   "en": "Come on, let the motorbike roar.",
+   "gsw": "Kumm, lohn de Töff tschäddera.",
+   "lit": "Töff = motorbike",
+   "ms": 1949,
+   "clip": "audio/gsw/5012.mp3",
+   "enClip": "audio/en/05ce4e9224d8a480.mp3"
+  },
+  {
+   "id": "1195",
+   "en": "Still no better weather in sight.",
+   "gsw": "Immer no kei besser Wetter in Uussicht.",
+   "lit": "",
+   "ms": 2420,
+   "clip": "audio/gsw/1195.mp3",
+   "enClip": "audio/en/44b2dd2e37c42a6b.mp3"
+  },
+  {
+   "id": "1723",
+   "en": "He threw the bottle to one side.",
+   "gsw": "Er het d Fläscha ufd Siita gworfa.",
+   "lit": "",
+   "ms": 2215,
+   "clip": "audio/gsw/1723.mp3",
+   "enClip": "audio/en/1b03beac02905b19.mp3"
+  },
+  {
+   "id": "1197",
+   "en": "We're expecting a cold winter.",
+   "gsw": "Miar erwarten an kalta Winter.",
+   "lit": "",
+   "ms": 2060,
+   "clip": "audio/gsw/1197.mp3",
+   "enClip": "audio/en/7e71f18e7fd1a920.mp3"
+  },
+  {
+   "id": "2487",
+   "en": "No, two flat tyres at once.",
+   "gsw": "Nei, grad zwei platti Reifa.",
+   "lit": "",
+   "ms": 2750,
+   "clip": "audio/gsw/2487.mp3",
+   "enClip": "audio/en/756d23b809e25a4c.mp3"
+  },
+  {
+   "id": "1886",
+   "en": "Saturday, sun and cloud mixed.",
+   "gsw": "Am Samstig Sunna und Wolka gmischt?",
+   "lit": "",
+   "ms": 2430,
+   "clip": "audio/gsw/1886.mp3",
+   "enClip": "audio/en/01bbe77c09b21676.mp3"
+  },
+  {
+   "id": "2214",
+   "en": "She's lost a lot of weight since then.",
+   "gsw": "Siither het sie stark abgnoh.",
+   "lit": "abnoh = lose weight",
+   "ms": 2116,
+   "clip": "audio/gsw/2214.mp3",
+   "enClip": "audio/en/08d5bae16d58861d.mp3"
+  },
+  {
+   "id": "77",
+   "en": "They had never argued.",
+   "gsw": "Sie hend sich nia gstritta.",
+   "lit": "",
+   "ms": 1870,
+   "clip": "audio/gsw/77.mp3",
+   "enClip": "audio/en/b34535349a3b7560.mp3"
+  },
+  {
+   "id": "2654",
+   "en": "I argued with my father.",
+   "gsw": "I han mi mit minem Vater gstritta.",
+   "lit": "",
+   "ms": 1990,
+   "clip": "audio/gsw/2654.mp3",
+   "enClip": "audio/en/68001849d6dbdfeb.mp3"
+  },
+  {
+   "id": "653",
+   "en": "Then it struck him that the wolf might have eaten the poor grandmother.",
+   "gsw": "Do isch ihm igfalla, dass dr Wolf dia arm Grossmuater gfressa ha könnt.",
+   "lit": "",
+   "ms": 4598,
+   "clip": "audio/gsw/653.mp3",
+   "enClip": "audio/en/8c004d406589e81c.mp3"
+  },
+  {
+   "id": "4102",
+   "en": "Is my train on time, or is it late?",
+   "gsw": "Isch min Zug pünktlich oder het er Verspötig?",
+   "lit": "Verspötig = delay",
+   "ms": 2480,
+   "clip": "audio/gsw/4102.mp3",
+   "enClip": "audio/en/8cae38f9147008ec.mp3"
+  },
+  {
+   "id": "4471",
+   "en": "The player is a bad loser, so to speak.",
+   "gsw": "Dr Spieler isch sozsega an schlechta Verlürer.",
+   "lit": "",
+   "ms": 2480,
+   "clip": "audio/gsw/4471.mp3",
+   "enClip": "audio/en/50f399906dba83e0.mp3"
+  },
+  {
+   "id": "1778",
+   "en": "He's sweeping the floor today.",
+   "gsw": "Er kehrt hüt dr Boda.",
+   "lit": "",
+   "ms": 1690,
+   "clip": "audio/gsw/1778.mp3",
+   "enClip": "audio/en/965de9b2a75d2f22.mp3"
+  },
+  {
+   "id": "1713",
+   "en": "She doesn't cry, and she doesn't bang her head against the wall either.",
+   "gsw": "Sie brüalt nit, und sie rennt au nit mim Kopf geg dWand.",
+   "lit": "brüala = cry",
+   "ms": 2890,
+   "clip": "audio/gsw/1713.mp3",
+   "enClip": "audio/en/a20d008e8afb8476.mp3"
+  },
+  {
+   "id": "1128",
+   "en": "He could never cheat or hurt anyone.",
+   "gsw": "Er könnti nia an Mensch betrüga oder verletza.",
+   "lit": "",
+   "ms": 2530,
+   "clip": "audio/gsw/1128.mp3",
+   "enClip": "audio/en/b1c2e3228f8a2f89.mp3"
+  },
+  {
+   "id": "2693",
+   "en": "I had another glass.",
+   "gsw": "I han no as Glas trunka.",
+   "lit": "",
+   "ms": 1690,
+   "clip": "audio/gsw/2693.mp3",
+   "enClip": "audio/en/2bbec9ee63a8770d.mp3"
+  },
+  {
+   "id": "219",
+   "en": "She cried her heart out.",
+   "gsw": "Sie het sich dSeelb ussem Leib brüalt.",
+   "lit": "cried her soul out of her body",
+   "ms": 2170,
+   "clip": "audio/gsw/219.mp3",
+   "enClip": "audio/en/fb5534ece6ffff5d.mp3"
+  },
+  {
+   "id": "1714",
+   "en": "A few of the old people had cried.",
+   "gsw": "As paar vu da alta Lüüta hend brüalt.",
+   "lit": "",
+   "ms": 2367,
+   "clip": "audio/gsw/1714.mp3",
+   "enClip": "audio/en/7eb3747919b75229.mp3"
+  },
+  {
+   "id": "2411",
+   "en": "I really like it when it rains so softly.",
+   "gsw": "I hans sehr gern wenns so lislig regnet.",
+   "lit": "",
+   "ms": 2611,
+   "clip": "audio/gsw/2411.mp3",
+   "enClip": "audio/en/0640bcb1f64a8a96.mp3"
+  },
+  {
+   "id": "2694",
+   "en": "But even back then I was drinking too much.",
+   "gsw": "Aber i han schu damals zviel trunka.",
+   "lit": "",
+   "ms": 2147,
+   "clip": "audio/gsw/2694.mp3",
+   "enClip": "audio/en/3ef4407941efa11c.mp3"
+  },
+  {
+   "id": "4959",
+   "en": "He's sitting on the sofa watching TV.",
+   "gsw": "Er hockt ufem Kutschi und luagt Fernseh.",
+   "lit": "hocka = to sit; Kutschi = sofa",
+   "ms": 2249,
+   "clip": "audio/gsw/4959.mp3",
+   "enClip": "audio/en/ae9743fc1c577a48.mp3"
+  },
+  {
+   "id": "2692",
+   "en": "Then she drank up her juice.",
+   "gsw": "Denn het sie ihra Saft uustrunka.",
+   "lit": "",
+   "ms": 1810,
+   "clip": "audio/gsw/2692.mp3",
+   "enClip": "audio/en/edb4f0a0dea44779.mp3"
+  },
+  {
+   "id": "3746",
+   "en": "Excuse me, are you watching football?",
+   "gsw": "Etschuldigung, luagend sie Fuassball?",
+   "lit": "",
+   "ms": 2346,
+   "clip": "audio/gsw/3746.mp3",
+   "enClip": "audio/en/f776d37284500eb5.mp3"
+  },
+  {
+   "id": "153",
+   "en": "Both parents feed them.",
+   "gsw": "Beidi Eltera füatteren.",
+   "lit": "",
+   "ms": 1510,
+   "clip": "audio/gsw/153.mp3",
+   "enClip": "audio/en/0824486cf22b56e1.mp3"
+  },
+  {
+   "id": "1188",
+   "en": "It looks like it'll stay mostly dry.",
+   "gsw": "Es schiint mehrhetilich trocha zblieba.",
+   "lit": "",
+   "ms": 2420,
+   "clip": "audio/gsw/1188.mp3",
+   "enClip": "audio/en/6dcb219d7197851b.mp3"
+  },
+  {
+   "id": "4849",
+   "en": "There too, I often chat with the staff at the till.",
+   "gsw": "Au do redi oft mit da Agstellta an dr Kassa.",
+   "lit": "",
+   "ms": 2772,
+   "clip": "audio/gsw/4849.mp3",
+   "enClip": "audio/en/49376b4a00933ef5.mp3"
+  },
+  {
+   "id": "4992",
+   "en": "I love sweets.",
+   "gsw": "I liaba Kitschi.",
+   "lit": "Kitschi = sweets (Graubünden)",
+   "ms": 1319,
+   "clip": "audio/gsw/4992.mp3",
+   "enClip": "audio/en/b129d3bb7701bac1.mp3"
+  },
+  {
+   "id": "980",
+   "en": "The trial lasted several days.",
+   "gsw": "Dr Prozess het mehreri Täg duurt.",
+   "lit": "",
+   "ms": 2530,
+   "clip": "audio/gsw/980.mp3",
+   "enClip": "audio/en/6f8c2012d57d9d13.mp3"
+  },
+  {
+   "id": "3765",
+   "en": "Lots of people are afraid of wild animals.",
+   "gsw": "Vieli Menscha hend Angst vor wild lebenda Tiar.",
+   "lit": "",
+   "ms": 2693,
+   "clip": "audio/gsw/3765.mp3",
+   "enClip": "audio/en/5b2eea298fe7d439.mp3"
+  },
+  {
+   "id": "2376",
+   "en": "Back when the well wasn't closed yet, someone fell down it.",
+   "gsw": "Wo ma dr Brunna no nit gschlossa kah het, isch öppert abakeit.",
+   "lit": "",
+   "ms": 3830,
+   "clip": "audio/gsw/2376.mp3",
+   "enClip": "audio/en/775d8ca89ef77476.mp3"
+  },
+  {
+   "id": "1727",
+   "en": "I'm just casting the fishing line.",
+   "gsw": "I wörfa nur d Angel ussa.",
+   "lit": "",
+   "ms": 1949,
+   "clip": "audio/gsw/1727.mp3",
+   "enClip": "audio/en/76e2966692ed56c7.mp3"
+  },
+  {
+   "id": "2490",
+   "en": "From that moment on I ran.",
+   "gsw": "Vu dem Moment ah bin i gsprunga.",
+   "lit": "springa = run",
+   "ms": 2120,
+   "clip": "audio/gsw/2490.mp3",
+   "enClip": "audio/en/1951f932714b66c6.mp3"
+  },
+  {
+   "id": "1696",
+   "en": "I'm getting the bandage ready.",
+   "gsw": "I bereita dr Verband vor.",
+   "lit": "",
+   "ms": 2420,
+   "clip": "audio/gsw/1696.mp3",
+   "enClip": "audio/en/b0695e483297bec8.mp3"
+  },
+  {
+   "id": "1069",
+   "en": "From there it carried on uphill.",
+   "gsw": "Vo döt uus isch es wiiter ufwärts ganga.",
+   "lit": "",
+   "ms": 2350,
+   "clip": "audio/gsw/1069.mp3",
+   "enClip": "audio/en/dcf5614b635bfc84.mp3"
+  },
+  {
+   "id": "906",
+   "en": "Aliens were on Earth to save people.",
+   "gsw": "Aliens sind uf dr Erda gsi, zum Menscha retta.",
+   "lit": "",
+   "ms": 3190,
+   "clip": "audio/gsw/906.mp3",
+   "enClip": "audio/en/9c8e4c485a84cf60.mp3"
+  },
+  {
+   "id": "1878",
+   "en": "Monday mostly grey with rain.",
+   "gsw": "Am Mentig meist grau mit Rega.",
+   "lit": "",
+   "ms": 2270,
+   "clip": "audio/gsw/1878.mp3",
+   "enClip": "audio/en/b7c16d2913604970.mp3"
+  },
+  {
+   "id": "2702",
+   "en": "We hug each other tight.",
+   "gsw": "Miar umarmen üüs fest.",
+   "lit": "",
+   "ms": 1510,
+   "clip": "audio/gsw/2702.mp3",
+   "enClip": "audio/en/9f105769741a67ed.mp3"
+  },
+  {
+   "id": "3689",
+   "en": "His dad, a baker by trade, was a drinker and a gambler.",
+   "gsw": "Sin Papa, eigetlich vu Bruaf Bäcker, isch an Trinker und Spieler gsi.",
+   "lit": "",
+   "ms": 4061,
+   "clip": "audio/gsw/3689.mp3",
+   "enClip": "audio/en/bde410ebf8a626aa.mp3"
+  },
+  {
+   "id": "226",
+   "en": "I definitely haven't put on three kilos.",
+   "gsw": "I han sicher kei drei Kilo zuagnoh.",
+   "lit": "zuanoh = put on weight",
+   "ms": 2039,
+   "clip": "audio/gsw/226.mp3",
+   "enClip": "audio/en/17a7d232fa750519.mp3"
+  },
+  {
+   "id": "1758",
+   "en": "They let themselves go and put the weight back on.",
+   "gsw": "Sie löhnd sich goh, hend wieder zuagnoh.",
+   "lit": "",
+   "ms": 2350,
+   "clip": "audio/gsw/1758.mp3",
+   "enClip": "audio/en/57e60e8c8b59d3f8.mp3"
+  },
+  {
+   "id": "1831",
+   "en": "Without lightning there'd be no thunder.",
+   "gsw": "Ohni Blitz gebts also au kei Donner.",
+   "lit": "",
+   "ms": 2430,
+   "clip": "audio/gsw/1831.mp3",
+   "enClip": "audio/en/806228b8ab233fca.mp3"
+  },
+  {
+   "id": "2670",
+   "en": "Mother had fallen to the ground.",
+   "gsw": "D Muatter isch uf da boda gstürzt.",
+   "lit": "",
+   "ms": 1990,
+   "clip": "audio/gsw/2670.mp3",
+   "enClip": "audio/en/94efeb881dede68d.mp3"
+  },
+  {
+   "id": "2724",
+   "en": "Meanwhile an idea came to him.",
+   "gsw": "Ihm isch unterdessa a Idee in Sinn koh.",
+   "lit": "",
+   "ms": 2650,
+   "clip": "audio/gsw/2724.mp3",
+   "enClip": "audio/en/607af615fdad7238.mp3"
+  },
+  {
+   "id": "518",
+   "en": "Its leaves are used as a vegetable too.",
+   "gsw": "Au sini Blätter werden als Gmüas verwendet.",
+   "lit": "",
+   "ms": 2650,
+   "clip": "audio/gsw/518.mp3",
+   "enClip": "audio/en/3498c0bc39d677f2.mp3"
+  },
+  {
+   "id": "2648",
+   "en": "I borrowed it, I didn't steal it.",
+   "gsw": "Usglehnt han is, nit gstohla.",
+   "lit": "",
+   "ms": 1828,
+   "clip": "audio/gsw/2648.mp3",
+   "enClip": "audio/en/c0e77c30b86462c6.mp3"
+  },
+  {
+   "id": "2641",
+   "en": "You like him, and he can feel it.",
+   "gsw": "Du magsch ihn und ds spüürt er.",
+   "lit": "",
+   "ms": 2110,
+   "clip": "audio/gsw/2641.mp3",
+   "enClip": "audio/en/98083eb28dacf3ce.mp3"
+  },
+  {
+   "id": "2602",
+   "en": "She never got over it.",
+   "gsw": "Sie het sich nia drvo erholt.",
+   "lit": "",
+   "ms": 1900,
+   "clip": "audio/gsw/2602.mp3",
+   "enClip": "audio/en/c68971b4fd367133.mp3"
+  },
+  {
+   "id": "2600",
+   "en": "John had recovered again.",
+   "gsw": "Dr John het sich wieder erholt kah.",
+   "lit": "",
+   "ms": 2044,
+   "clip": "audio/gsw/2600.mp3",
+   "enClip": "audio/en/e32616f2ae2bff3a.mp3"
+  },
+  {
+   "id": "79",
+   "en": "He fooled us all.",
+   "gsw": "Er het üs alli tüüscht.",
+   "lit": "",
+   "ms": 1570,
+   "clip": "audio/gsw/79.mp3",
+   "enClip": "audio/en/1025185490d6845d.mp3"
+  },
+  {
+   "id": "470",
+   "en": "The people love the kings, and everyone's happy and content.",
+   "gsw": "Ds Volk het d König sehr gern und alli sind fröhlich und zfrieda.",
+   "lit": "",
+   "ms": 3610,
+   "clip": "audio/gsw/470.mp3",
+   "enClip": "audio/en/8f4fd73682813493.mp3"
+  },
+  {
+   "id": "2375",
+   "en": "I make these machines and sell them.",
+   "gsw": "I stella dia Grät her und verkaufa sie.",
+   "lit": "",
+   "ms": 2721,
+   "clip": "audio/gsw/2375.mp3",
+   "enClip": "audio/en/0cf8c572a2379d45.mp3"
+  },
+  {
+   "id": "2674",
+   "en": "I'm glad I don't dance any more.",
+   "gsw": "I bin froh, dass i nüma tanza.",
+   "lit": "nüma = no more",
+   "ms": 1970,
+   "clip": "audio/gsw/2674.mp3",
+   "enClip": "audio/en/536996100a24f323.mp3"
+  },
+  {
+   "id": "2673",
+   "en": "But I won't dance to your tune.",
+   "gsw": "Aber i tanza nit noch dinera Pfiifa.",
+   "lit": "to your pipe",
+   "ms": 2350,
+   "clip": "audio/gsw/2673.mp3",
+   "enClip": "audio/en/45740b322c1d7a5c.mp3"
+  },
+  {
+   "id": "2741",
+   "en": "He himself hadn't wasted a thought on it.",
+   "gsw": "Er het selber kei Gedanka dra verschwendet.",
+   "lit": "",
+   "ms": 2321,
+   "clip": "audio/gsw/2741.mp3",
+   "enClip": "audio/en/0f97637ebe4aacce.mp3"
+  },
+  {
+   "id": "2561",
+   "en": "An old woman screamed.",
+   "gsw": "An alti Frau het ufgschraua.",
+   "lit": "",
+   "ms": 2150,
+   "clip": "audio/gsw/2561.mp3",
+   "enClip": "audio/en/1aaebc90ae240fb5.mp3"
+  },
+  {
+   "id": "2242",
+   "en": "Suddenly he screamed at me, and nobody could believe what had just happened.",
+   "gsw": "Plötzlich het er mi aagschraua und niamert het könna glauba was grad passiart isch.",
+   "lit": "",
+   "ms": 4220,
+   "clip": "audio/gsw/2242.mp3",
+   "enClip": "audio/en/f07c0fab6eab0efc.mp3"
+  },
+  {
+   "id": "1172",
+   "en": "Expect frost, down to minus ten degrees.",
+   "gsw": "Es isch mit Frost bi minus zehn Grad z rechna.",
+   "lit": "",
+   "ms": 2696,
+   "clip": "audio/gsw/1172.mp3",
+   "enClip": "audio/en/624036a6beafd6fb.mp3"
+  },
+  {
+   "id": "2726",
+   "en": "I nearly lost my balance.",
+   "gsw": "Fast han i ds Glichgwicht verlora.",
+   "lit": "",
+   "ms": 2000,
+   "clip": "audio/gsw/2726.mp3",
+   "enClip": "audio/en/2e21d03097a88784.mp3"
+  },
+  {
+   "id": "2642",
+   "en": "She feels what you feel.",
+   "gsw": "Sie spürt, was du spürsch.",
+   "lit": "",
+   "ms": 1924,
+   "clip": "audio/gsw/2642.mp3",
+   "enClip": "audio/en/ab7b035a9e1c8053.mp3"
+  },
+  {
+   "id": "2640",
+   "en": "I don't want you to feel it.",
+   "gsw": "I will nit, dass du sie spürsch.",
+   "lit": "",
+   "ms": 2050,
+   "clip": "audio/gsw/2640.mp3",
+   "enClip": "audio/en/083475be0c090d32.mp3"
+  },
+  {
+   "id": "511",
+   "en": "He left a wife and their son.",
+   "gsw": "Er het a Frau und ihra gmeinsami Sohn hinterloh.",
+   "lit": "",
+   "ms": 2950,
+   "clip": "audio/gsw/511.mp3",
+   "enClip": "audio/en/3fe48c439fc5c72d.mp3"
+  },
+  {
+   "id": "3920",
+   "en": "The kittens are all sitting up.",
+   "gsw": "D Kätzli sind alli ufrecht.",
+   "lit": "",
+   "ms": 1919,
+   "clip": "audio/gsw/3920.mp3",
+   "enClip": "audio/en/b8cb1cb3a0acd5d2.mp3"
+  },
+  {
+   "id": "4962",
+   "en": "She bloody loves bread and jam.",
+   "gsw": "Sie het huara gern Brütschi.",
+   "lit": "huara = damn (rude); Brütschi = bread and jam",
+   "ms": 1774,
+   "clip": "audio/gsw/4962.mp3",
+   "enClip": "audio/en/b57bdcaafce2eaf3.mp3"
+  },
+  {
+   "id": "1009",
+   "en": "The old tradition is meant to drive away evil spirits.",
+   "gsw": "Dra alt Tradition het zum Sinn, dia bösa Geister z vertrieba.",
+   "lit": "",
+   "ms": 3388,
+   "clip": "audio/gsw/1009.mp3",
+   "enClip": "audio/en/2c00e4b222b8c06c.mp3"
+  },
+  {
+   "id": "2481",
+   "en": "These days I don't smoke and I don't bet any more.",
+   "gsw": "Hüt rauch i nüm und wetta nüm.",
+   "lit": "",
+   "ms": 2390,
+   "clip": "audio/gsw/2481.mp3",
+   "enClip": "audio/en/0120992ce3bb91fa.mp3"
+  },
+  {
+   "id": "1728",
+   "en": "You throw like a girl!",
+   "gsw": "Du wörfsch wia as Meitli!",
+   "lit": "Meitli = girl",
+   "ms": 1627,
+   "clip": "audio/gsw/1728.mp3",
+   "enClip": "audio/en/9dd7bf65ce4ec4c3.mp3"
+  },
+  {
+   "id": "1845",
+   "en": "During the day nine to thirteen degrees.",
+   "gsw": "Tagsüber nüün bis drizehn Grad.",
+   "lit": "",
+   "ms": 2190,
+   "clip": "audio/gsw/1845.mp3",
+   "enClip": "audio/en/a32258dcc55b8ebc.mp3"
+  },
+  {
+   "id": "244",
+   "en": "Early morning minus nine degrees, during the day twelve.",
+   "gsw": "Am früaha Morga Minus nüün Grad, tagsüber zwölf Grad.",
+   "lit": "",
+   "ms": 3330,
+   "clip": "audio/gsw/244.mp3",
+   "enClip": "audio/en/cd2e4dae9a0531b3.mp3"
+  },
+  {
+   "id": "2669",
+   "en": "Otherwise you'll fall into the depths.",
+   "gsw": "Sus stürzend iar eu no ind Tüüfi.",
+   "lit": "",
+   "ms": 2050,
+   "clip": "audio/gsw/2669.mp3",
+   "enClip": "audio/en/f0b97c9e64580be3.mp3"
+  },
+  {
+   "id": "3956",
+   "en": "A man works in the office and snacks on a few bits on the side.",
+   "gsw": "An Maa schafft im Büro und isst nebabii as paar Klinigkeita.",
+   "lit": "",
+   "ms": 3426,
+   "clip": "audio/gsw/3956.mp3",
+   "enClip": "audio/en/1b278856a8a479da.mp3"
+  },
+  {
+   "id": "4088",
+   "en": "The cart is usually pulled by two horses.",
+   "gsw": "Dr Waga wird vu normalerwiis zwei Pferd zoga.",
+   "lit": "",
+   "ms": 2619,
+   "clip": "audio/gsw/4088.mp3",
+   "enClip": "audio/en/1f149b0ed2505f9d.mp3"
+  },
+  {
+   "id": "1889",
+   "en": "Sunday, lots of sunshine with few clouds.",
+   "gsw": "Am Sunntig viel Sunnaschii mit weniga Wolka.",
+   "lit": "Sunntig = Sunday",
+   "ms": 2610,
+   "clip": "audio/gsw/1889.mp3",
+   "enClip": "audio/en/0e72ecb5fbff273f.mp3"
+  },
+  {
+   "id": "2678",
+   "en": "I'm afraid he's fooled you.",
+   "gsw": "I fürchta, dass er eu tüüscht het.",
+   "lit": "",
+   "ms": 2050,
+   "clip": "audio/gsw/2678.mp3",
+   "enClip": "audio/en/e03532e94439d311.mp3"
+  },
+  {
+   "id": "72",
+   "en": "He looks at her in surprise.",
+   "gsw": "Er luagt sie erstuunt ah.",
+   "lit": "",
+   "ms": 2009,
+   "clip": "audio/gsw/72.mp3",
+   "enClip": "audio/en/4e57e15f6eab91af.mp3"
+  },
+  {
+   "id": "3686",
+   "en": "We were totally amazed by Lena.",
+   "gsw": "Miar sind total erstuunt über d Lena gsi.",
+   "lit": "",
+   "ms": 2483,
+   "clip": "audio/gsw/3686.mp3",
+   "enClip": "audio/en/3a903a018c10e117.mp3"
+  },
+  {
+   "id": "2519",
+   "en": "Helen looked at the clock.",
+   "gsw": "D Helen het ufd Uhr gluagt.",
+   "lit": "luaga = to look",
+   "ms": 1776,
+   "clip": "audio/gsw/2519.mp3",
+   "enClip": "audio/en/6d7f8a05335be008.mp3"
+  },
+  {
+   "id": "2520",
+   "en": "He just looked over at the couch.",
+   "gsw": "Er het nur zur Couch gluagt.",
+   "lit": "",
+   "ms": 1928,
+   "clip": "audio/gsw/2520.mp3",
+   "enClip": "audio/en/23137a1518459947.mp3"
+  },
+  {
+   "id": "2517",
+   "en": "Jack looked her in the eyes as she spoke.",
+   "gsw": "Dr Jack het ihra bim Reda ind Auga gluagt.",
+   "lit": "",
+   "ms": 3050,
+   "clip": "audio/gsw/2517.mp3",
+   "enClip": "audio/en/fdea5d5467d7c1aa.mp3"
+  },
+  {
+   "id": "1116",
+   "en": "The children then regret how they behaved.",
+   "gsw": "D Kinder bereuen uf das hii ihres Verhalta.",
+   "lit": "",
+   "ms": 2590,
+   "clip": "audio/gsw/1116.mp3",
+   "enClip": "audio/en/5de018ebbefed71a.mp3"
+  },
+  {
+   "id": "4062",
+   "en": "Anywhere will do for a little nap.",
+   "gsw": "Jeda Ort passt für as kliises Nickerli.",
+   "lit": "Nickerli = nap",
+   "ms": 2411,
+   "clip": "audio/gsw/4062.mp3",
+   "enClip": "audio/en/63cb1f0db671dcd6.mp3"
+  },
+  {
+   "id": "5815",
+   "en": "You could fight back against a beating, to a point.",
+   "gsw": "Geg Prügel hesch du di jo as Stuck wiit wehra könna.",
+   "lit": "",
+   "ms": 2697,
+   "clip": "audio/gsw/5815.mp3",
+   "enClip": "audio/en/27546e8a578284e4.mp3"
+  },
+  {
+   "id": "5425",
+   "en": "Visitors can often listen to bells or ring them themselves.",
+   "gsw": "Oft könn d Bsuacher Glocka alosa oder selber lüta.",
+   "lit": "lüta = ring",
+   "ms": 3046,
+   "clip": "audio/gsw/5425.mp3",
+   "enClip": "audio/en/2e9ad6c63e3a1667.mp3"
+  },
+  {
+   "id": "2402",
+   "en": "Every day our neighbours made noise, it was unbearable.",
+   "gsw": "Jeda Tag hend üssi Nochbara Lärm gmacht, es isch unerträglich gsi.",
+   "lit": "",
+   "ms": 4752,
+   "clip": "audio/gsw/2402.mp3",
+   "enClip": "audio/en/c3e8e9d9e0a59eed.mp3"
+  },
+  {
+   "id": "1881",
+   "en": "It stays warm, at around twenty-three degrees on Lake Constance.",
+   "gsw": "Es bliibt warm mit rund dreiazwanzig Grad am Bodasee.",
+   "lit": "",
+   "ms": 3218,
+   "clip": "audio/gsw/1881.mp3",
+   "enClip": "audio/en/d6e72c22c38e5987.mp3"
+  },
+  {
+   "id": "467",
+   "en": "The hairdresser stands behind him while washing his hair.",
+   "gsw": "Dr Coiffeur stoht bim Wäscha hinter ihm.",
+   "lit": "Coiffeur = hairdresser",
+   "ms": 2510,
+   "clip": "audio/gsw/467.mp3",
+   "enClip": "audio/en/e4eeeca29ea584e5.mp3"
+  },
+  {
+   "id": "3897",
+   "en": "It flowers from May to June.",
+   "gsw": "D Blüateziit langt vo Mai bis Juni.",
+   "lit": "",
+   "ms": 2398,
+   "clip": "audio/gsw/3897.mp3",
+   "enClip": "audio/en/9447b2a29ff2a5f6.mp3"
+  },
+  {
+   "id": "3898",
+   "en": "It flowers from June to August.",
+   "gsw": "D Blüataziit isch vu Jui bis August.",
+   "lit": "",
+   "ms": 2391,
+   "clip": "audio/gsw/3898.mp3",
+   "enClip": "audio/en/98d810f14422b901.mp3"
+  },
+  {
+   "id": "5020",
+   "en": "He's totally wrecked.",
+   "gsw": "Er isch total verknüttlet.",
+   "lit": "verknüttlet = wrecked (slang)",
+   "ms": 1761,
+   "clip": "audio/gsw/5020.mp3",
+   "enClip": "audio/en/ef9f2af243787bff.mp3"
+  },
+  {
+   "id": "3859",
+   "en": "I went over.",
+   "gsw": "I bin übera ganga.",
+   "lit": "",
+   "ms": 1308,
+   "clip": "audio/gsw/3859.mp3",
+   "enClip": "audio/en/d6801a5c08a7b56e.mp3"
+  },
+  {
+   "id": "4984",
+   "en": "Don't act like a baby!",
+   "gsw": "Tuan nit wianas Poppi!",
+   "lit": "Poppi = baby",
+   "ms": 1359,
+   "clip": "audio/gsw/4984.mp3",
+   "enClip": "audio/en/bfe3c007cafb7151.mp3"
+  },
+  {
+   "id": "4719",
+   "en": "In the south, though, the clouds thicken and it gradually gets wet.",
+   "gsw": "Im Süda werden im Gegazug d Wolka dichter und es wird allmählich nass.",
+   "lit": "",
+   "ms": 3938,
+   "clip": "audio/gsw/4719.mp3",
+   "enClip": "audio/en/d272518989dd13a0.mp3"
+  },
+  {
+   "id": "5047",
+   "en": "I've no idea where my dad has gone.",
+   "gsw": "I han kei Ahnig wo min Pä hiiganga isch.",
+   "lit": "Pä = dad",
+   "ms": 2553,
+   "clip": "audio/gsw/5047.mp3",
+   "enClip": "audio/en/fa8116f52978beca.mp3"
+  },
+  {
+   "id": "2684",
+   "en": "I hit my opponent on the chin.",
+   "gsw": "I han min Gegner am Kinn troffa.",
+   "lit": "",
+   "ms": 1870,
+   "clip": "audio/gsw/2684.mp3",
+   "enClip": "audio/en/7979d5a24ead2f53.mp3"
+  },
+  {
+   "id": "4156",
+   "en": "Nobody can read your awful handwriting.",
+   "gsw": "Dini schlimm Handschrift kann kei Mensch lesa.",
+   "lit": "",
+   "ms": 2396,
+   "clip": "audio/gsw/4156.mp3",
+   "enClip": "audio/en/8a791c43a26dd570.mp3"
+  },
+  {
+   "id": "2339",
+   "en": "While he was a prisoner he played football regularly, but only on sand.",
+   "gsw": "Während dr Gfangaschaft het er regelmässig Tschuttet, aber nur uf Sand.",
+   "lit": "tschutta = play football",
+   "ms": 4430,
+   "clip": "audio/gsw/2339.mp3",
+   "enClip": "audio/en/8c06e48f675824bc.mp3"
+  },
+  {
+   "id": "2786",
+   "en": "Shortly after, Sam and Jonah come back because the boy forgot his rucksack.",
+   "gsw": "Kurz drnoch kehren dr Sam und dr Jonah zruck, will dr Buab sin Rucksack vergessa het.",
+   "lit": "Buab = boy",
+   "ms": 4610,
+   "clip": "audio/gsw/2786.mp3",
+   "enClip": "audio/en/d12218cdfff80c8c.mp3"
+  },
+  {
+   "id": "2382",
+   "en": "Did you hear the loud bang yesterday morning too?",
+   "gsw": "Hesch du au de luuti Knall gester Vormittag ghört?",
+   "lit": "",
+   "ms": 3290,
+   "clip": "audio/gsw/2382.mp3",
+   "enClip": "audio/en/67e72cc8caebf909.mp3"
+  },
+  {
+   "id": "4697",
+   "en": "By the morning it's drying up from the west.",
+   "gsw": "Er tröchnet schu am Vormittag vu Westa her ab.",
+   "lit": "",
+   "ms": 2727,
+   "clip": "audio/gsw/4697.mp3",
+   "enClip": "audio/en/85f253293383a10c.mp3"
+  },
+  {
+   "id": "1716",
+   "en": "No, she said, and carried on crying.",
+   "gsw": "Nei, het sie gseit und wiiter brüalt.",
+   "lit": "brüala = to cry",
+   "ms": 2350,
+   "clip": "audio/gsw/1716.mp3",
+   "enClip": "audio/en/4770d307f3a632d2.mp3"
+  },
+  {
+   "id": "4950",
+   "en": "South of the Alps it was too wet almost everywhere.",
+   "gsw": "Südlich vu da Alpa isch es verbreitet z nass gsi.",
+   "lit": "",
+   "ms": 2944,
+   "clip": "audio/gsw/4950.mp3",
+   "enClip": "audio/en/1711559b350b8724.mp3"
+  },
+  {
+   "id": "4099",
+   "en": "Why boys fight.",
+   "gsw": "Warum buaba sich prüglen.",
+   "lit": "",
+   "ms": 1737,
+   "clip": "audio/gsw/4099.mp3",
+   "enClip": "audio/en/6a52484742c8098f.mp3"
+  },
+  {
+   "id": "2410",
+   "en": "It's slowly starting to rain.",
+   "gsw": "Es foht langsam ah regna.",
+   "lit": "",
+   "ms": 2150,
+   "clip": "audio/gsw/2410.mp3",
+   "enClip": "audio/en/a0f2dd39cb80c835.mp3"
+  },
+  {
+   "id": "2742",
+   "en": "I'm afraid you're wasting precious time with that.",
+   "gsw": "I fürchta, mit dem verschwendender wertvolli Ziit.",
+   "lit": "",
+   "ms": 2890,
+   "clip": "audio/gsw/2742.mp3",
+   "enClip": "audio/en/8f214acf8a44fbb9.mp3"
+  },
+  {
+   "id": "2675",
+   "en": "You dance as lightly as a feather.",
+   "gsw": "Du tanzisch so liicht wiana Federa.",
+   "lit": "",
+   "ms": 2290,
+   "clip": "audio/gsw/2675.mp3",
+   "enClip": "audio/en/9f532f1d1791b6c9.mp3"
+  },
+  {
+   "id": "277",
+   "en": "She can work very strong, evil magic with it.",
+   "gsw": "Sie kann drmit sehr starki, bösi Magie bewirka.",
+   "lit": "",
+   "ms": 3310,
+   "clip": "audio/gsw/277.mp3",
+   "enClip": "audio/en/6b471fc027615b7a.mp3"
+  },
+  {
+   "id": "5164",
+   "en": "She finds it hard to settle in there, but she can go to secondary school.",
+   "gsw": "Döt gwöhnt sie sich nur schwer ii, kann aber d Realschual bsaucha.",
+   "lit": "",
+   "ms": 3641,
+   "clip": "audio/gsw/5164.mp3",
+   "enClip": "audio/en/0ffe351f4d4b202b.mp3"
+  },
+  {
+   "id": "2711",
+   "en": "She moved away a long time ago.",
+   "gsw": "Sie isch scho vor langer Ziit umzoga.",
+   "lit": "umzücha = move house",
+   "ms": 2290,
+   "clip": "audio/gsw/2711.mp3",
+   "enClip": "audio/en/a34d8c220219b93b.mp3"
+  },
+  {
+   "id": "171",
+   "en": "Now I've got you, you old sinner!",
+   "gsw": "Jetzt hani i di, du alta Sünder!",
+   "lit": "",
+   "ms": 2350,
+   "clip": "audio/gsw/171.mp3",
+   "enClip": "audio/en/12263d925f4126bb.mp3"
+  },
+  {
+   "id": "2511",
+   "en": "Straight after, he was ashamed.",
+   "gsw": "Grad noch dem hetter sich gschämt.",
+   "lit": "",
+   "ms": 2108,
+   "clip": "audio/gsw/2511.mp3",
+   "enClip": "audio/en/97807d42e44dfb55.mp3"
+  },
+  {
+   "id": "4960",
+   "en": "That sofa's ancient and worn out.",
+   "gsw": "Das Kutschi isch schu uralt und abgsessa.",
+   "lit": "Kutschi = sofa",
+   "ms": 2378,
+   "clip": "audio/gsw/4960.mp3",
+   "enClip": "audio/en/6a61aae20ab71372.mp3"
+  },
+  {
+   "id": "3835",
+   "en": "On top of that, he thought he was ugly.",
+   "gsw": "Zudem het er sich selber für hässlich ghalta.",
+   "lit": "",
+   "ms": 2385,
+   "clip": "audio/gsw/3835.mp3",
+   "enClip": "audio/en/7c0c2c26acdac0e0.mp3"
+  },
+  {
+   "id": "5046",
+   "en": "My mum made me a sandwich.",
+   "gsw": "Mini Mä het mer as Iklemmts gmacht.",
+   "lit": "Mä = mum; Iklemmts = sandwich",
+   "ms": 2085,
+   "clip": "audio/gsw/5046.mp3",
+   "enClip": "audio/en/b896630f9da527f1.mp3"
+  },
+  {
+   "id": "3932",
+   "en": "Fish roar, laugh, whistle, screech and giggle!",
+   "gsw": "Fisch brüllen, lachen, pfiifen, kreischen, kicheren!",
+   "lit": "",
+   "ms": 3175,
+   "clip": "audio/gsw/3932.mp3",
+   "enClip": "audio/en/dbb23cee961af886.mp3"
+  },
+  {
+   "id": "346",
+   "en": "Either the left or the right foot goes in front.",
+   "gsw": "Entweder wird dr linki oder dr Rechti Fuass vorna platziart.",
+   "lit": "",
+   "ms": 3190,
+   "clip": "audio/gsw/346.mp3",
+   "enClip": "audio/en/7b33a639036f2c79.mp3"
+  },
+  {
+   "id": "5038",
+   "en": "The balloon burst with a massive bang.",
+   "gsw": "Dr Ballon isch platzt und es het an uu huara Täscha geh.",
+   "lit": "huara = damn (rude); Täscha = bang",
+   "ms": 2831,
+   "clip": "audio/gsw/5038.mp3",
+   "enClip": "audio/en/446f8bd44155fa08.mp3"
+  },
+  {
+   "id": "982",
+   "en": "Silver got more and more expensive, gold cheaper and cheaper.",
+   "gsw": "Silber isch immer tüürer worda, Gold immer billiger.",
+   "lit": "",
+   "ms": 3010,
+   "clip": "audio/gsw/982.mp3",
+   "enClip": "audio/en/9179ade84a68a5e9.mp3"
+  },
+  {
+   "id": "3891",
+   "en": "Anyway, the order wasn't followed.",
+   "gsw": "De Befehl isch jedafalls nit befolgt worda.",
+   "lit": "",
+   "ms": 2595,
+   "clip": "audio/gsw/3891.mp3",
+   "enClip": "audio/en/56846f9951bb815c.mp3"
+  },
+  {
+   "id": "973",
+   "en": "He recorded it on an answering machine.",
+   "gsw": "Er het das uf an Aruafbeantworter ufgnoh.",
+   "lit": "",
+   "ms": 2770,
+   "clip": "audio/gsw/973.mp3",
+   "enClip": "audio/en/ce214dbe3ab33fe3.mp3"
+  },
+  {
+   "id": "2417",
+   "en": "You creep quietly across the attic.",
+   "gsw": "Du gohsch liislig über da Estrich.",
+   "lit": "Estrich = attic",
+   "ms": 2150,
+   "clip": "audio/gsw/2417.mp3",
+   "enClip": "audio/en/f8929125762bb714.mp3"
+  },
+  {
+   "id": "2248",
+   "en": "We expect you to look after your younger brothers and sisters all the time.",
+   "gsw": "Miar erwartem, dass iar ständig uf euri jüngera Gschwüster ufpassen.",
+   "lit": "Gschwüster = brothers and sisters",
+   "ms": 4190,
+   "clip": "audio/gsw/2248.mp3",
+   "enClip": "audio/en/3653e001213a1ce5.mp3"
+  },
+  {
+   "id": "4970",
+   "en": "What kind of bloody idiot are you?",
+   "gsw": "Was bisch du für an huara Kalöri?",
+   "lit": "huara = damn (rude); Kalöri = idiot",
+   "ms": 1966,
+   "clip": "audio/gsw/4970.mp3",
+   "enClip": "audio/en/1e44b6c309fd1282.mp3"
+  },
+  {
+   "id": "5021",
+   "en": "You washed the curtains wrong, now they're ruined.",
+   "gsw": "Du hesch d Vorhäng falsch gwäscha, jetzt sinds verknüttlet.",
+   "lit": "verknüttlet = wrecked",
+   "ms": 3085,
+   "clip": "audio/gsw/5021.mp3",
+   "enClip": "audio/en/1b49d3ab996a62ab.mp3"
+  },
+  {
+   "id": "2495",
+   "en": "You run around all the time helping other people.",
+   "gsw": "Dia ganzi Ziit springsch uma und hilfsch andera Lüt.",
+   "lit": "",
+   "ms": 3189,
+   "clip": "audio/gsw/2495.mp3",
+   "enClip": "audio/en/a3f45a9b250670f0.mp3"
+  },
+  {
+   "id": "2653",
+   "en": "Look, now he's arguing with another monk.",
+   "gsw": "Luag, jetzt strittet er mit ama andera Mönch.",
+   "lit": "",
+   "ms": 2443,
+   "clip": "audio/gsw/2653.mp3",
+   "enClip": "audio/en/e41425ba6e45eca1.mp3"
+  },
+  {
+   "id": "2218",
+   "en": "Felix is so mean, he must have hurt him on purpose.",
+   "gsw": "So gemein wia dr Felix isch, het er ihm sicher absichtlich gschadet.",
+   "lit": "",
+   "ms": 3980,
+   "clip": "audio/gsw/2218.mp3",
+   "enClip": "audio/en/d9559072caf507ae.mp3"
+  },
+  {
+   "id": "1198",
+   "en": "At the weekend you'll notice spring coming.",
+   "gsw": "Am Wuchanend macht sich dr Früahlig bemerkbar.",
+   "lit": "",
+   "ms": 2392,
+   "clip": "audio/gsw/1198.mp3",
+   "enClip": "audio/en/e1b8fb8306538479.mp3"
+  },
+  {
+   "id": "3740",
+   "en": "I think that's outrageous.",
+   "gsw": "Das find i unverschämt.",
+   "lit": "",
+   "ms": 1604,
+   "clip": "audio/gsw/3740.mp3",
+   "enClip": "audio/en/5e93585d734a69ef.mp3"
+  },
+  {
+   "id": "4154",
+   "en": "This version of the software is much worse than the old one.",
+   "gsw": "Dia Version vur Software isch viel schlechter als dia alt.",
+   "lit": "",
+   "ms": 3200,
+   "clip": "audio/gsw/4154.mp3",
+   "enClip": "audio/en/0ee9a2e8517d0f79.mp3"
+  },
+  {
+   "id": "246",
+   "en": "At two thousand metres, ten degrees.",
+   "gsw": "Uf zweituusig Meter zehn Grad.",
+   "lit": "",
+   "ms": 2130,
+   "clip": "audio/gsw/246.mp3",
+   "enClip": "audio/en/e70201ad831e1824.mp3"
+  },
+  {
+   "id": "1864",
+   "en": "At two thousand metres, eleven degrees.",
+   "gsw": "Uf zweituusig Meter ölf Grad.",
+   "lit": "",
+   "ms": 2141,
+   "clip": "audio/gsw/1864.mp3",
+   "enClip": "audio/en/759a2c714b6f3422.mp3"
+  },
+  {
+   "id": "5027",
+   "en": "The kids were damn restless.",
+   "gsw": "Dia Goofa sind verdammt unruhig gsi.",
+   "lit": "Goofa = kids",
+   "ms": 2183,
+   "clip": "audio/gsw/5027.mp3",
+   "enClip": "audio/en/178acbfb37648299.mp3"
+  },
+  {
+   "id": "4995",
+   "en": "When he's bored, he's a fidget.",
+   "gsw": "Wenner glangwiilt isch, ischer an Juffli.",
+   "lit": "Juffli = fidget",
+   "ms": 2231,
+   "clip": "audio/gsw/4995.mp3",
+   "enClip": "audio/en/7f6fe32ce400cb2a.mp3"
+  },
+  {
+   "id": "3695",
+   "en": "Where did I put my watch?",
+   "gsw": "Wo han i den mini Uhru heragleit?",
+   "lit": "",
+   "ms": 1882,
+   "clip": "audio/gsw/3695.mp3",
+   "enClip": "audio/en/498a5a3e3f147322.mp3"
+  },
+  {
+   "id": "3050",
+   "en": "Later the allotment garden grew out of it.",
+   "gsw": "Spöter het sich denn druus dr Schrebergarta entwicklet.",
+   "lit": "",
+   "ms": 2893,
+   "clip": "audio/gsw/3050.mp3",
+   "enClip": "audio/en/f9ecdbb3ce1e098e.mp3"
+  },
+  {
+   "id": "1774",
+   "en": "He ate the cake himself.",
+   "gsw": "Er het dr Kuacha selber gessa.",
+   "lit": "",
+   "ms": 1990,
+   "clip": "audio/gsw/1774.mp3",
+   "enClip": "audio/en/ed92124a3e2a32e5.mp3"
+  },
+  {
+   "id": "7439",
+   "en": "They're especially popular with tourists from Europe, the USA and Japan.",
+   "gsw": "Dia sind bsunders bi Tourista us Europa, USA und Japan beliabt.",
+   "lit": "",
+   "ms": 3761,
+   "clip": "audio/gsw/7439.mp3",
+   "enClip": "audio/en/e9c74bef11d7397b.mp3"
+  },
+  {
+   "id": "2701",
+   "en": "He hugs her tight.",
+   "gsw": "Er umarmt sie fest.",
+   "lit": "",
+   "ms": 2240,
+   "clip": "audio/gsw/2701.mp3",
+   "enClip": "audio/en/5cff7af738258604.mp3"
+  },
+  {
+   "id": "2703",
+   "en": "They had hugged.",
+   "gsw": "Sie hend sich umarmt kah.",
+   "lit": "",
+   "ms": 1490,
+   "clip": "audio/gsw/2703.mp3",
+   "enClip": "audio/en/decd01a51feee4ea.mp3"
+  },
+  {
+   "id": "1182",
+   "en": "Tomorrow morning the sun shines; in the evening thunderstorms move in.",
+   "gsw": "Morn früah schinnt d Sunna am Obig züchend Gwitter uuf.",
+   "lit": "Gwitter = thunderstorm",
+   "ms": 2965,
+   "clip": "audio/gsw/1182.mp3",
+   "enClip": "audio/en/63c50d97b4380fbd.mp3"
+  },
+  {
+   "id": "1036",
+   "en": "In the first years of school all the children did excellently.",
+   "gsw": "In da ersta Schualjohr hend alli Kinder usgezeichneti Leistiga zeigt.",
+   "lit": "",
+   "ms": 4390,
+   "clip": "audio/gsw/1036.mp3",
+   "enClip": "audio/en/607ccbcabd3bbf0e.mp3"
+  },
+  {
+   "id": "2496",
+   "en": "The dog smelt her.",
+   "gsw": "Dr Hund het sie gschmöckt.",
+   "lit": "schmöcka = smell",
+   "ms": 1462,
+   "clip": "audio/gsw/2496.mp3",
+   "enClip": "audio/en/25dc769d04a0ddff.mp3"
+  },
+  {
+   "id": "41",
+   "en": "There she lies on the sofa, staring at me with big eyes.",
+   "gsw": "Do liggt sie uffem Sofa und starrt mi mit grossa Auga ah.",
+   "lit": "",
+   "ms": 3350,
+   "clip": "audio/gsw/41.mp3",
+   "enClip": "audio/en/513bccb07abbc506.mp3"
+  },
+  {
+   "id": "1211",
+   "en": "Otherwise, weather-wise, no big changes.",
+   "gsw": "Sus hemmer punktio Wetter kei grossi Änderiga.",
+   "lit": "",
+   "ms": 2840,
+   "clip": "audio/gsw/1211.mp3",
+   "enClip": "audio/en/0f14724bf4ee60b4.mp3"
+  },
+  {
+   "id": "2449",
+   "en": "And he'd parked up on the mountain.",
+   "gsw": "Drbii hetter doba uffem Berg parkiart.",
+   "lit": "",
+   "ms": 2690,
+   "clip": "audio/gsw/2449.mp3",
+   "enClip": "audio/en/c71667f09c2eb96b.mp3"
+  },
+  {
+   "id": "2450",
+   "en": "Or rather, you parked next to him.",
+   "gsw": "Bezühigswiis du hesch neb ihm parkiart.",
+   "lit": "",
+   "ms": 2554,
+   "clip": "audio/gsw/2450.mp3",
+   "enClip": "audio/en/2d71f2206e6e46ae.mp3"
+  },
+  {
+   "id": "3068",
+   "en": "I haven't got a headache, but I've been dizzy for a while now.",
+   "gsw": "Obwohl i kei Kopfweh han, isch miar siit einiger Ziit schwindlig.",
+   "lit": "Kopfweh = headache",
+   "ms": 3297,
+   "clip": "audio/gsw/3068.mp3",
+   "enClip": "audio/en/43adfa727a974070.mp3"
+  },
+  {
+   "id": "1061",
+   "en": "Then Thor has to lift a cat off the ground.",
+   "gsw": "Denn söll dr Thor a Katz vum Boda ufneh.",
+   "lit": "",
+   "ms": 2530,
+   "clip": "audio/gsw/1061.mp3",
+   "enClip": "audio/en/ade48c4508f5fc20.mp3"
+  },
+  {
+   "id": "1767",
+   "en": "How could he slam the door on me like that?",
+   "gsw": "Wia het er miar nur könna dTür zuaschletza.",
+   "lit": "zuaschletza = slam shut",
+   "ms": 2461,
+   "clip": "audio/gsw/1767.mp3",
+   "enClip": "audio/en/61382abdcbce13b6.mp3"
+  },
+  {
+   "id": "4100",
+   "en": "She gets a jumper, and can now stay in the family as a pet for good.",
+   "gsw": "Sie kriagt an Pullover und dörf jetzt endgültig als Hustiar in dr Familia blieba.",
+   "lit": "Hustiar = pet",
+   "ms": 4349,
+   "clip": "audio/gsw/4100.mp3",
+   "enClip": "audio/en/17e24de73a5f8879.mp3"
+  },
+  {
+   "id": "63",
+   "en": "The car races through the night.",
+   "gsw": "Ds Auto rast dur dNacht.",
+   "lit": "",
+   "ms": 1720,
+   "clip": "audio/gsw/63.mp3",
+   "enClip": "audio/en/d9a76c93ca332fc6.mp3"
+  },
+  {
+   "id": "1177",
+   "en": "Later this week it's supposed to snow in Thun.",
+   "gsw": "Spöter in dera Wucha sölls in Thun schneia.",
+   "lit": "",
+   "ms": 2420,
+   "clip": "audio/gsw/1177.mp3",
+   "enClip": "audio/en/a4dae8d42d466532.mp3"
+  },
+  {
+   "id": "2480",
+   "en": "It sounded like I'd been smoking cigars all night.",
+   "gsw": "Es het tönt, als hetti dia ganz Nacht Zigarra graucht.",
+   "lit": "",
+   "ms": 3350,
+   "clip": "audio/gsw/2480.mp3",
+   "enClip": "audio/en/2bf5abcc9a56afd5.mp3"
+  },
+  {
+   "id": "2630",
+   "en": "She's saving for her trousseau.",
+   "gsw": "Sie spart für Ihri Huusstüür.",
+   "lit": "",
+   "ms": 1923,
+   "clip": "audio/gsw/2630.mp3",
+   "enClip": "audio/en/ebe16fafec3ce2e0.mp3"
+  },
+  {
+   "id": "2564",
+   "en": "She aims at him and screams.",
+   "gsw": "Sie zielt uf ihn und schreit.",
+   "lit": "",
+   "ms": 2690,
+   "clip": "audio/gsw/2564.mp3",
+   "enClip": "audio/en/8452fbc71d0ec426.mp3"
+  },
+  {
+   "id": "2739",
+   "en": "I hope I'm not wasting my time with you.",
+   "gsw": "I hoffa, dass i nit mini Ziit mit diar verschwenda.",
+   "lit": "",
+   "ms": 2710,
+   "clip": "audio/gsw/2739.mp3",
+   "enClip": "audio/en/6d40a351f3f0269b.mp3"
+  },
+  {
+   "id": "5106",
+   "en": "After that they vanished into the fog and were never seen alive again.",
+   "gsw": "Drnoch sind sie im Nebel verschwunda und nit wieder lebend gseh worda.",
+   "lit": "",
+   "ms": 3694,
+   "clip": "audio/gsw/5106.mp3",
+   "enClip": "audio/en/7eed5485c79c39df.mp3"
+  },
+  {
+   "id": "4096",
+   "en": "One egg is used per portion.",
+   "gsw": "Pro Portion wird eis Ei verwendet.",
+   "lit": "",
+   "ms": 2347,
+   "clip": "audio/gsw/4096.mp3",
+   "enClip": "audio/en/ba03b43b13780abf.mp3"
+  },
+  {
+   "id": "5869",
+   "en": "Even though Leonard's a really nice guy, I've never regretted it.",
+   "gsw": "Au wenn dr Leonard an sehr netta Kerl isch, han is nia bereut.",
+   "lit": "",
+   "ms": 3463,
+   "clip": "audio/gsw/5869.mp3",
+   "enClip": "audio/en/4e76b2d4d008fb29.mp3"
+  },
+  {
+   "id": "2533",
+   "en": "And in the same breath you probably cursed me too.",
+   "gsw": "Im gliicha Atemzug hesch du wohl au über mi gschumpfa.",
+   "lit": "",
+   "ms": 3167,
+   "clip": "audio/gsw/2533.mp3",
+   "enClip": "audio/en/cf1fd454964cb487.mp3"
+  },
+  {
+   "id": "2746",
+   "en": "Your husband here knows his trade.",
+   "gsw": "Ihra Ma do verstoht sis Handwerk.",
+   "lit": "",
+   "ms": 2169,
+   "clip": "audio/gsw/2746.mp3",
+   "enClip": "audio/en/dc3eefd48e135133.mp3"
+  },
+  {
+   "id": "4985",
+   "en": "Got a lighter?",
+   "gsw": "Hesch mer dr Zünder?",
+   "lit": "Zünder = lighter",
+   "ms": 1366,
+   "clip": "audio/gsw/4985.mp3",
+   "enClip": "audio/en/51453e67dd022e7b.mp3"
+  },
+  {
+   "id": "2605",
+   "en": "I looked around, but Ty was nowhere.",
+   "gsw": "I han mi umgseh aber dr Ty isch niana gsi.",
+   "lit": "niana = nowhere",
+   "ms": 2487,
+   "clip": "audio/gsw/2605.mp3",
+   "enClip": "audio/en/db445382c4c86cfa.mp3"
+  },
+  {
+   "id": "3688",
+   "en": "The women are sad, but Fred swears he'll come back.",
+   "gsw": "D Fraua sind dodrufhin trurig, aber dr Fred schwört, wieder zruckzkoh.",
+   "lit": "",
+   "ms": 4004,
+   "clip": "audio/gsw/3688.mp3",
+   "enClip": "audio/en/447f0e1aa135abcc.mp3"
+  },
+  {
+   "id": "1729",
+   "en": "The men threw their hats in the air.",
+   "gsw": "d Männer hend ihri Hüat ind Luft gworfa.",
+   "lit": "",
+   "ms": 2350,
+   "clip": "audio/gsw/1729.mp3",
+   "enClip": "audio/en/6e4e532821752773.mp3"
+  },
+  {
+   "id": "4139",
+   "en": "Sheep live ten to twelve years, twenty at most.",
+   "gsw": "Schof erreichen as Alter vu zehn bis zwölf, maximal zwanzig Johr.",
+   "lit": "",
+   "ms": 3968,
+   "clip": "audio/gsw/4139.mp3",
+   "enClip": "audio/en/5b1a9e34bd472e4b.mp3"
+  },
+  {
+   "id": "5574",
+   "en": "The time now is half past one.",
+   "gsw": "Dia aktuell Uhrzit isch halb zwei.",
+   "lit": "half two (= 1:30)",
+   "ms": 2215,
+   "clip": "audio/gsw/5574.mp3",
+   "enClip": "audio/en/3b4eec0d4bbf651f.mp3"
+  },
+  {
+   "id": "5565",
+   "en": "The time now is quarter past four.",
+   "gsw": "Dia aktuelli Uhrziit isch viertel ab vieri.",
+   "lit": "",
+   "ms": 2409,
+   "clip": "audio/gsw/5565.mp3",
+   "enClip": "audio/en/5f936acd781be1a1.mp3"
+  },
+  {
+   "id": "5568",
+   "en": "The time now is quarter to seven.",
+   "gsw": "Dia aktuelli Uhrziit isch viertel vor siebni.",
+   "lit": "",
+   "ms": 2540,
+   "clip": "audio/gsw/5568.mp3",
+   "enClip": "audio/en/7185652760908c69.mp3"
+  },
+  {
+   "id": "5571",
+   "en": "The time now is five past eight.",
+   "gsw": "Dia aktuell Uhrzit isch füf ab achti.",
+   "lit": "",
+   "ms": 2192,
+   "clip": "audio/gsw/5571.mp3",
+   "enClip": "audio/en/13b6a70e678e6cf8.mp3"
+  },
+  {
+   "id": "143",
+   "en": "Today it's mostly strawberries they grow.",
+   "gsw": "Hüt wwerden vor allem Erdbeeri aabaut.",
+   "lit": "",
+   "ms": 2410,
+   "clip": "audio/gsw/143.mp3",
+   "enClip": "audio/en/b4b8203479edc2e0.mp3"
+  },
+  {
+   "id": "3970",
+   "en": "The leaves are only used fresh, and smell of garlic.",
+   "gsw": "D Blätter werden nur frisch verwndet und schmöcken noch Knoblauch.",
+   "lit": "schmöcka = smell",
+   "ms": 3736,
+   "clip": "audio/gsw/3970.mp3",
+   "enClip": "audio/en/03f689740442a186.mp3"
+  },
+  {
+   "id": "1689",
+   "en": "The room was small and crammed full.",
+   "gsw": "Dr Ruum isch klii und vollgstopft gsi.",
+   "lit": "",
+   "ms": 2201,
+   "clip": "audio/gsw/1689.mp3",
+   "enClip": "audio/en/34d96c4d47ca9401.mp3"
+  },
+  {
+   "id": "87",
+   "en": "In the mountains, on the other hand, there's snow more often.",
+   "gsw": "Hingega da Berga no gits hüüfiger Schnee.",
+   "lit": "",
+   "ms": 2780,
+   "clip": "audio/gsw/87.mp3",
+   "enClip": "audio/en/65ed89f0da788a06.mp3"
+  },
+  {
+   "id": "2479",
+   "en": "I'd smoked two cigarettes before he moved.",
+   "gsw": "I han zwei Zigaretta graucht, bevor er sich bewegt het.",
+   "lit": "",
+   "ms": 3252,
+   "clip": "audio/gsw/2479.mp3",
+   "enClip": "audio/en/6db4557daa588a62.mp3"
+  },
+  {
+   "id": "2383",
+   "en": "I always listen to Mozart before I fall asleep.",
+   "gsw": "I losa jewiils vor em iischlofa Mozart.",
+   "lit": "losa = listen",
+   "ms": 2839,
+   "clip": "audio/gsw/2383.mp3",
+   "enClip": "audio/en/5af21c14d13bc37d.mp3"
+  },
+  {
+   "id": "4993",
+   "en": "If you don't stop, I'll give you a kick.",
+   "gsw": "Wenn nit ufhörsch, gibi diar an Sparz.",
+   "lit": "Sparz = kick",
+   "ms": 2205,
+   "clip": "audio/gsw/4993.mp3",
+   "enClip": "audio/en/af2951feb456e921.mp3"
+  },
+  {
+   "id": "2699",
+   "en": "I'm hugging you tight.",
+   "gsw": "I umarma di fest.",
+   "lit": "",
+   "ms": 1442,
+   "clip": "audio/gsw/2699.mp3",
+   "enClip": "audio/en/cb33720a7f3f205c.mp3"
+  },
+  {
+   "id": "2698",
+   "en": "Hug me instead, said Alexander, laughing.",
+   "gsw": "Umarm liaber mi, het dr Alexander lachend gseit.",
+   "lit": "",
+   "ms": 3143,
+   "clip": "audio/gsw/2698.mp3",
+   "enClip": "audio/en/b06a9df57f624fd8.mp3"
+  },
+  {
+   "id": "5014",
+   "en": "Mario and Philipp beat me up on the way to school.",
+   "gsw": "Dr Mario und dr Philipp hend mi uffam Schualweg verplütscht.",
+   "lit": "verplütscha = beat up",
+   "ms": 3035,
+   "clip": "audio/gsw/5014.mp3",
+   "enClip": "audio/en/7641a52550e60ed4.mp3"
+  },
+  {
+   "id": "3029",
+   "en": "Outside every pub he thanks his Maker that there's schnapps.",
+   "gsw": "Er dankt vor jedera Beiz sinem Schöpfer, dass es Schnaps git.",
+   "lit": "Beiz = pub",
+   "ms": 3275,
+   "clip": "audio/gsw/3029.mp3",
+   "enClip": "audio/en/341c8073635f3e77.mp3"
+  },
+  {
+   "id": "1822",
+   "en": "Local thunderstorms finally bring rain.",
+   "gsw": "Lokali Gwitter bringen endlich Rega.",
+   "lit": "",
+   "ms": 2474,
+   "clip": "audio/gsw/1822.mp3",
+   "enClip": "audio/en/7ba84bef91973f41.mp3"
+  },
+  {
+   "id": "3911",
+   "en": "They tried to hide their broken marriage from the children.",
+   "gsw": "Sie hend probiart dia kaputti Ehe vor da Kinder z verheimlicha.",
+   "lit": "",
+   "ms": 3376,
+   "clip": "audio/gsw/3911.mp3",
+   "enClip": "audio/en/d7d8361b755b2349.mp3"
+  },
+  {
+   "id": "2665",
+   "en": "For two days it stormed without a break.",
+   "gsw": "Zweit Täg lang hets ohni Unterbrechig gstürmt kah.",
+   "lit": "",
+   "ms": 3127,
+   "clip": "audio/gsw/2665.mp3",
+   "enClip": "audio/en/e88b79348e5969e4.mp3"
+  },
+  {
+   "id": "3827",
+   "en": "The cockerel and the hen go up the mountain to eat nuts together.",
+   "gsw": "Güggali und Hänna göhnd uf da Berg, zum gmeinsam Nüssa essa.",
+   "lit": "Güggali = cockerel",
+   "ms": 3287,
+   "clip": "audio/gsw/3827.mp3",
+   "enClip": "audio/en/4d1813e5dc3b5e5a.mp3"
+  },
+  {
+   "id": "428",
+   "en": "There it flowers from February to March.",
+   "gsw": "Sie blüaht döt vu Februar bis März.",
+   "lit": "",
+   "ms": 2470,
+   "clip": "audio/gsw/428.mp3",
+   "enClip": "audio/en/c54a452e6dba5fd5.mp3"
+  },
+  {
+   "id": "650",
+   "en": "\"How the old woman snores,\" he thought.",
+   "gsw": "Wia dia alt Frau schnarcht , het er sich denkt.",
+   "lit": "",
+   "ms": 3190,
+   "clip": "audio/gsw/650.mp3",
+   "enClip": "audio/en/81b9f66bedada3bd.mp3"
+  },
+  {
+   "id": "3715",
+   "en": "They spent the winter in a shelter.",
+   "gsw": "Dr Winter hend sie inem Unterstand verbrocht.",
+   "lit": "",
+   "ms": 2477,
+   "clip": "audio/gsw/3715.mp3",
+   "enClip": "audio/en/3a5c7582e0bed81e.mp3"
+  },
+  {
+   "id": "2372",
+   "en": "She lifted her child out of the pram.",
+   "gsw": "Sie het ihres Kind ussem Kinderwaga ghoba.",
+   "lit": "",
+   "ms": 2790,
+   "clip": "audio/gsw/2372.mp3",
+   "enClip": "audio/en/6395468c41ec4528.mp3"
+  },
+  {
+   "id": "4979",
+   "en": "Watch out, he's a crook!",
+   "gsw": "Pass uf, er isch an Koga!",
+   "lit": "Koga = scoundrel",
+   "ms": 1496,
+   "clip": "audio/gsw/4979.mp3",
+   "enClip": "audio/en/271e70076b5953f9.mp3"
+  },
+  {
+   "id": "4980",
+   "en": "Leave me alone, you crook!",
+   "gsw": "Lohn mi in Ruah, du Koga!",
+   "lit": "",
+   "ms": 1519,
+   "clip": "audio/gsw/4980.mp3",
+   "enClip": "audio/en/62e0110e32018236.mp3"
+  },
+  {
+   "id": "2524",
+   "en": "Why don't you just look in the phone book?",
+   "gsw": "Warum luagsch nid eifach in Telefonbuach?",
+   "lit": "",
+   "ms": 2165,
+   "clip": "audio/gsw/2524.mp3",
+   "enClip": "audio/en/169a332fc4eb46c2.mp3"
+  },
+  {
+   "id": "2544",
+   "en": "He's been creeping around here for weeks.",
+   "gsw": "De schliicht schu siit Wucha uma.",
+   "lit": "",
+   "ms": 1917,
+   "clip": "audio/gsw/2544.mp3",
+   "enClip": "audio/en/9415f2ddf15ee743.mp3"
+  },
+  {
+   "id": "3674",
+   "en": "Her dad insisted she earn her own pocket money.",
+   "gsw": "Ihra Vater het druf bestanda, dass sie sich ihres eigna Sackgeld verdiant het.",
+   "lit": "Sackgeld = pocket money",
+   "ms": 4150,
+   "clip": "audio/gsw/3674.mp3",
+   "enClip": "audio/en/383246e7db25545d.mp3"
+  },
+  {
+   "id": "2636",
+   "en": "Now it just stutters and splutters when I try to start it.",
+   "gsw": "Jetzt stottert und spuckt sie nur, wenn i sie starta will.",
+   "lit": "",
+   "ms": 2950,
+   "clip": "audio/gsw/2636.mp3",
+   "enClip": "audio/en/0f6133d48e86ef20.mp3"
+  },
+  {
+   "id": "2393",
+   "en": "Who's rung the bell again?",
+   "gsw": "Wer het do scho wieder glüta?",
+   "lit": "",
+   "ms": 2243,
+   "clip": "audio/gsw/2393.mp3",
+   "enClip": "audio/en/5f339614e5542621.mp3"
+  },
+  {
+   "id": "661",
+   "en": "The hunter skinned the wolf and went home with the fur.",
+   "gsw": "Dr Jäger het sin Pelz abzoga und isch drmit Hei ganga.",
+   "lit": "",
+   "ms": 3490,
+   "clip": "audio/gsw/661.mp3",
+   "enClip": "audio/en/269383e6bac96bf4.mp3"
+  },
+  {
+   "id": "3685",
+   "en": "The accident left two dead.",
+   "gsw": "Dr Unfal het zwei Toti verursacht.",
+   "lit": "",
+   "ms": 2618,
+   "clip": "audio/gsw/3685.mp3",
+   "enClip": "audio/en/1048d065227c2359.mp3"
+  },
+  {
+   "id": "1719",
+   "en": "She turns round and looks down on the town.",
+   "gsw": "Sie wendet sich um und blickt aba ufd Stadt.",
+   "lit": "",
+   "ms": 3170,
+   "clip": "audio/gsw/1719.mp3",
+   "enClip": "audio/en/2e0cbccf860aafa6.mp3"
+  },
+  {
+   "id": "5008",
+   "en": "I'm just nipping off for a poo, then I'll be back with you.",
+   "gsw": "I gohn kurz go pfunda, denn kummi wieder zu eu.",
+   "lit": "pfunda = poo (rude)",
+   "ms": 2757,
+   "clip": "audio/gsw/5008.mp3",
+   "enClip": "audio/en/7a31545029076d34.mp3"
+  },
+  {
+   "id": "2241",
+   "en": "Nobody had ever shouted at him that loudly.",
+   "gsw": "No nia het ihn öppert so luut aagschraua.",
+   "lit": "",
+   "ms": 2510,
+   "clip": "audio/gsw/2241.mp3",
+   "enClip": "audio/en/e3c7ba01d4e3547f.mp3"
+  },
+  {
+   "id": "2634",
+   "en": "I'll spit in your face.",
+   "gsw": "I spucka diar ins Gsicht.",
+   "lit": "",
+   "ms": 1557,
+   "clip": "audio/gsw/2634.mp3",
+   "enClip": "audio/en/226f7b76b499279a.mp3"
+  },
+  {
+   "id": "1706",
+   "en": "Jan was still standing at the washbasin.",
+   "gsw": "Dr Jan isch unverändert vorem Lavabo gstanda.",
+   "lit": "Lavabo = washbasin",
+   "ms": 2810,
+   "clip": "audio/gsw/1706.mp3",
+   "enClip": "audio/en/6d8674efed41fb84.mp3"
+  },
+  {
+   "id": "5558",
+   "en": "One moment, I'm switching dialect.",
+   "gsw": "Ei Moment, i wechsla dr Dialekt.",
+   "lit": "",
+   "ms": 2087,
+   "clip": "audio/gsw/5558.mp3",
+   "enClip": "audio/en/6f70ff909ebbdd00.mp3"
+  },
+  {
+   "id": "4988",
+   "en": "She kicked him in the balls.",
+   "gsw": "Sie het ihm ind Hötscha kickt.",
+   "lit": "Hötscha = balls (rude)",
+   "ms": 1723,
+   "clip": "audio/gsw/4988.mp3",
+   "enClip": "audio/en/0340560e2e518956.mp3"
+  },
+  {
+   "id": "2576",
+   "en": "One of them was shoved forward by his mates.",
+   "gsw": "Eina vu ihna isch vu sinem Kamerad füra gschupft worda.",
+   "lit": "schupfa = shove",
+   "ms": 3590,
+   "clip": "audio/gsw/2576.mp3",
+   "enClip": "audio/en/b8533ab2ac50844b.mp3"
+  },
+  {
+   "id": "2639",
+   "en": "I can feel his strong presence.",
+   "gsw": "I spüüra sini starki Präsenz.",
+   "lit": "",
+   "ms": 2050,
+   "clip": "audio/gsw/2639.mp3",
+   "enClip": "audio/en/99aecde496cb4825.mp3"
+  },
+  {
+   "id": "433",
+   "en": "After a bit of a delay, the ninth piglet was born.",
+   "gsw": "Noch einiger Verzögerig isch ds nünta Ferkel ufd Welt koh.",
+   "lit": "",
+   "ms": 3234,
+   "clip": "audio/gsw/433.mp3",
+   "enClip": "audio/en/c72bc3045aff814e.mp3"
+  },
+  {
+   "id": "4848",
+   "en": "In May it gets noticeably cooler again at the weekend.",
+   "gsw": "Im Mai wirds am Wuchanend wieder dütlich küahler.",
+   "lit": "",
+   "ms": 2635,
+   "clip": "audio/gsw/4848.mp3",
+   "enClip": "audio/en/4e952d3eec11e456.mp3"
+  },
+  {
+   "id": "4375",
+   "en": "Today only the ship's upper decks can be seen.",
+   "gsw": "Hüt sind nur no dia obera Decks vum Schiff sichtbar.",
+   "lit": "",
+   "ms": 2777,
+   "clip": "audio/gsw/4375.mp3",
+   "enClip": "audio/en/675cfe8ac7885fb0.mp3"
+  },
+  {
+   "id": "2740",
+   "en": "Stop it, said Nova, you're wasting your energy.",
+   "gsw": "Hör drmit uf, het dr Nova gseit, du verschwendisch dini Energie.",
+   "lit": "",
+   "ms": 3800,
+   "clip": "audio/gsw/2740.mp3",
+   "enClip": "audio/en/a22656a1eefc2fc3.mp3"
+  },
+  {
+   "id": "2489",
+   "en": "She ran to the back of the ship.",
+   "gsw": "Sie isch zum Heck vum Schiff gsprunga.",
+   "lit": "springa = run",
+   "ms": 2207,
+   "clip": "audio/gsw/2489.mp3",
+   "enClip": "audio/en/d3bc4e4e2047b44c.mp3"
+  },
+  {
+   "id": "1818",
+   "en": "The outlook until Monday.",
+   "gsw": "Ussichta bis am Mentig.",
+   "lit": "",
+   "ms": 1941,
+   "clip": "audio/gsw/1818.mp3",
+   "enClip": "audio/en/98e99edba61f326a.mp3"
+  },
+  {
+   "id": "2206",
+   "en": "He stared at her, constantly and for a long time.",
+   "gsw": "Er het sie duurend und lang aagstarrt.",
+   "lit": "",
+   "ms": 2570,
+   "clip": "audio/gsw/2206.mp3",
+   "enClip": "audio/en/cc4c0ad9561a6743.mp3"
+  },
+  {
+   "id": "908",
+   "en": "Google was our last hope.",
+   "gsw": "Google isch üssi letscht Hoffnig gsi.",
+   "lit": "",
+   "ms": 2018,
+   "clip": "audio/gsw/908.mp3",
+   "enClip": "audio/en/eadf65274304d675.mp3"
+  },
+  {
+   "id": "2448",
+   "en": "He hated sneezing.",
+   "gsw": "Er hets ghasst znüssa.",
+   "lit": "",
+   "ms": 2150,
+   "clip": "audio/gsw/2448.mp3",
+   "enClip": "audio/en/36fdbe661aa4afa1.mp3"
+  },
+  {
+   "id": "1232",
+   "en": "The fog's spreading more and more again.",
+   "gsw": "Dr Nebel breitet isch wieder meh und meh uus.",
+   "lit": "",
+   "ms": 2474,
+   "clip": "audio/gsw/1232.mp3",
+   "enClip": "audio/en/43cf530250fb94fa.mp3"
+  },
+  {
+   "id": "4026",
+   "en": "Their son is called Milan.",
+   "gsw": "Ihra Sohn treit dr Nama Milan.",
+   "lit": "",
+   "ms": 2086,
+   "clip": "audio/gsw/4026.mp3",
+   "enClip": "audio/en/bcb9d01f02eaf649.mp3"
+  },
+  {
+   "id": "2548",
+   "en": "He shot, and I dragged the boxes.",
+   "gsw": "Er het gschossa, und i han dKista gschleppt.",
+   "lit": "",
+   "ms": 2804,
+   "clip": "audio/gsw/2548.mp3",
+   "enClip": "audio/en/17de43a9dac60060.mp3"
+  },
+  {
+   "id": "5348",
+   "en": "He tells Sally he loves her, and they kiss.",
+   "gsw": "Er gestoht dr Sally sini Liabi und beidi küssen sich.",
+   "lit": "",
+   "ms": 3040,
+   "clip": "audio/gsw/5348.mp3",
+   "enClip": "audio/en/21a860048148e2b1.mp3"
+  },
+  {
+   "id": "1230",
+   "en": "It gets colder in August, September and October.",
+   "gsw": "Es wir kälter im August, September und Oktober.",
+   "lit": "",
+   "ms": 2900,
+   "clip": "audio/gsw/1230.mp3",
+   "enClip": "audio/en/48b7afa4a340413d.mp3"
+  },
+  {
+   "id": "96",
+   "en": "Pleasant temperatures are expected from Tuesday.",
+   "gsw": "Agnehmi Temperatura sind ab Dsistig z erwarta.",
+   "lit": "Dsistig = Tuesday",
+   "ms": 2767,
+   "clip": "audio/gsw/96.mp3",
+   "enClip": "audio/en/1ed94b6045706f11.mp3"
+  },
+  {
+   "id": "1143",
+   "en": "Temperatures drop a little in the north.",
+   "gsw": "D Temperatura gönd im Norda as bizali zruck.",
+   "lit": "",
+   "ms": 2780,
+   "clip": "audio/gsw/1143.mp3",
+   "enClip": "audio/en/8b5de881e351954a.mp3"
+  },
+  {
+   "id": "1193",
+   "en": "At night temperatures fall below thirteen degrees.",
+   "gsw": "In dr Nacht keien d Temperatura unter drizehn grad.",
+   "lit": "",
+   "ms": 2974,
+   "clip": "audio/gsw/1193.mp3",
+   "enClip": "audio/en/a5ecfd9ed534f122.mp3"
+  },
+  {
+   "id": "2586",
+   "en": "He had a short rest.",
+   "gsw": "Er het sich kurz uusgruabt.",
+   "lit": "",
+   "ms": 2030,
+   "clip": "audio/gsw/2586.mp3",
+   "enClip": "audio/en/51fdaee96f45caab.mp3"
+  },
+  {
+   "id": "2587",
+   "en": "But his head was rested.",
+   "gsw": "Aber sin Kopf isch usgruabt gsi.",
+   "lit": "",
+   "ms": 2094,
+   "clip": "audio/gsw/2587.mp3",
+   "enClip": "audio/en/f310c47c01271f68.mp3"
+  },
+  {
+   "id": "2588",
+   "en": "She was rested, hungry and happy.",
+   "gsw": "Sie isch usgruagt, hungrig und glücklich gsi.",
+   "lit": "",
+   "ms": 2930,
+   "clip": "audio/gsw/2588.mp3",
+   "enClip": "audio/en/4e07c2cffec894d1.mp3"
+  },
+  {
+   "id": "3903",
+   "en": "Coffee is the main farm product.",
+   "gsw": "Dr Kaffi isch ds Hauptprodukt vur Landwirtschaft.",
+   "lit": "Kaffi = coffee",
+   "ms": 2662,
+   "clip": "audio/gsw/3903.mp3",
+   "enClip": "audio/en/ba37369b40d69b68.mp3"
+  },
+  {
+   "id": "4944",
+   "en": "So three average shops are enough for it to pay off.",
+   "gsw": "Es langen also drei durchschnittlichi Ikäuf, drmit es sich rechnet.",
+   "lit": "",
+   "ms": 3610,
+   "clip": "audio/gsw/4944.mp3",
+   "enClip": "audio/en/5fcb358fed4c195b.mp3"
+  },
+  {
+   "id": "2398",
+   "en": "The little one's already crawling all over the flat.",
+   "gsw": "Dia klii krüücht schu dur dia ganz Wohnig.",
+   "lit": "",
+   "ms": 2870,
+   "clip": "audio/gsw/2398.mp3",
+   "enClip": "audio/en/b97093769310f7ac.mp3"
+  },
+  {
+   "id": "4675",
+   "en": "She's from Aargau, but she's lived in the USA for a long time.",
+   "gsw": "Sie isch a Aaragauerin, lebt aber scho lang in da USA.",
+   "lit": "",
+   "ms": 3126,
+   "clip": "audio/gsw/4675.mp3",
+   "enClip": "audio/en/dc57f3837cbf292e.mp3"
+  },
+  {
+   "id": "2340",
+   "en": "I stopped playing football at a high level.",
+   "gsw": "I han nüma uf hohem Level tschuttet.",
+   "lit": "tschutta = play football",
+   "ms": 2704,
+   "clip": "audio/gsw/2340.mp3",
+   "enClip": "audio/en/1a34b1688613e40d.mp3"
+  },
+  {
+   "id": "4708",
+   "en": "The sun shone at times through blue gaps in the sky.",
+   "gsw": "Es het dur blaui Lucka am Himmel ziitwiis d Sunna gschiint.",
+   "lit": "",
+   "ms": 3155,
+   "clip": "audio/gsw/4708.mp3",
+   "enClip": "audio/en/decc3575b1cc1d46.mp3"
+  },
+  {
+   "id": "2334",
+   "en": "We held on to the bags.",
+   "gsw": "Miar hend dSäckli festghebt.",
+   "lit": "Säckli = bags",
+   "ms": 2210,
+   "clip": "audio/gsw/2334.mp3",
+   "enClip": "audio/en/07cb0e7273b031c8.mp3"
+  },
+  {
+   "id": "2492",
+   "en": "My friends ran down the mountain.",
+   "gsw": "Mini Fründa sind dr Berg abagsprunga.",
+   "lit": "",
+   "ms": 2423,
+   "clip": "audio/gsw/2492.mp3",
+   "enClip": "audio/en/247e8a32bfc243b5.mp3"
+  },
+  {
+   "id": "2491",
+   "en": "Stephanie and I ran off straight away.",
+   "gsw": "D Stephanie und i sind sofort losgsprunga.",
+   "lit": "springa = run",
+   "ms": 2704,
+   "clip": "audio/gsw/2491.mp3",
+   "enClip": "audio/en/fd4ae4a702d0c875.mp3"
+  },
+  {
+   "id": "315",
+   "en": "Thanks to more training, he hopes to get a better job as an electrician soon.",
+   "gsw": "Dank Wiiterbildig hofft er, bald a besseri Aastellig als Elektrikter z kriaga.",
+   "lit": "",
+   "ms": 4210,
+   "clip": "audio/gsw/315.mp3",
+   "enClip": "audio/en/8501feec685b20e8.mp3"
+  },
+  {
+   "id": "2419",
+   "en": "Although we knocked very quietly at the door, he woke up terrified.",
+   "gsw": "Obwohl miar sehr liislig and Tüür klopft hend, isch er voller Schrecka uufgwacht.",
+   "lit": "",
+   "ms": 5090,
+   "clip": "audio/gsw/2419.mp3",
+   "enClip": "audio/en/0675e5c36396d5f1.mp3"
+  },
+  {
+   "id": "5030",
+   "en": "Want a slap?",
+   "gsw": "Wetsch a Suttera?",
+   "lit": "Suttera = slap",
+   "ms": 1196,
+   "clip": "audio/gsw/5030.mp3",
+   "enClip": "audio/en/4bb6104d846785c0.mp3"
+  },
+  {
+   "id": "5031",
+   "en": "I'll give you a slap.",
+   "gsw": "I gib der a Suttera.",
+   "lit": "",
+   "ms": 1382,
+   "clip": "audio/gsw/5031.mp3",
+   "enClip": "audio/en/ad55437319b1f046.mp3"
+  },
+  {
+   "id": "5017",
+   "en": "Why didn't you just slap him?",
+   "gsw": "Wieso hesch ihm nit eifach a Schwinta geh?",
+   "lit": "Schwinta = slap",
+   "ms": 2054,
+   "clip": "audio/gsw/5017.mp3",
+   "enClip": "audio/en/aafaa0c99fb5dbed.mp3"
+  },
+  {
+   "id": "5016",
+   "en": "He gave him a proper slap.",
+   "gsw": "Er het ihm a saftigi Schwinta geh.",
+   "lit": "",
+   "ms": 2026,
+   "clip": "audio/gsw/5016.mp3",
+   "enClip": "audio/en/cce21f402ac05ef6.mp3"
+  },
+  {
+   "id": "2790",
+   "en": "Since the aim is to get rid of all your cards first, you have to cheat.",
+   "gsw": "Do es ds Ziel isch, als Ersta alli Karta loszwerda, muass ma schummla.",
+   "lit": "",
+   "ms": 4073,
+   "clip": "audio/gsw/2790.mp3",
+   "enClip": "audio/en/075966c76a9b5926.mp3"
+  },
+  {
+   "id": "4883",
+   "en": "I can't afford so many tactical mistakes any more.",
+   "gsw": "I dörf miar nüm so viel taktischi Fehler erlauba.",
+   "lit": "",
+   "ms": 2884,
+   "clip": "audio/gsw/4883.mp3",
+   "enClip": "audio/en/69d620ad49c437b1.mp3"
+  },
+  {
+   "id": "2243",
+   "en": "He stared at me with desperate eyes.",
+   "gsw": "Mit verzwiifleta Auga hetter mi aagstarrt.",
+   "lit": "",
+   "ms": 2990,
+   "clip": "audio/gsw/2243.mp3",
+   "enClip": "audio/en/637d65fdd6564500.mp3"
+  },
+  {
+   "id": "2345",
+   "en": "After that he went to Warsaw.",
+   "gsw": "Nocher isch er noch Warschau ganga.",
+   "lit": "",
+   "ms": 3080,
+   "clip": "audio/gsw/2345.mp3",
+   "enClip": "audio/en/7d99499a7a5ad5e4.mp3"
+  },
+  {
+   "id": "2747",
+   "en": "Ching Ping understood every word.",
+   "gsw": "Dr Ching Ping het jedes Wort verstanda.",
+   "lit": "",
+   "ms": 2110,
+   "clip": "audio/gsw/2747.mp3",
+   "enClip": "audio/en/35db7ebb57074758.mp3"
+  },
+  {
+   "id": "2399",
+   "en": "I never crawled, I let myself be carried.",
+   "gsw": "I bin nia krocha sondern han mi träga loh.",
+   "lit": "",
+   "ms": 3050,
+   "clip": "audio/gsw/2399.mp3",
+   "enClip": "audio/en/2e811a902800c70d.mp3"
+  },
+  {
+   "id": "3034",
+   "en": "The little one cut her finger on the edge of a piece of paper.",
+   "gsw": "Dia Kli het sich anera Kanta Papier in da Finger gschnitta.",
+   "lit": "",
+   "ms": 3178,
+   "clip": "audio/gsw/3034.mp3",
+   "enClip": "audio/en/f11784760bbed243.mp3"
+  },
+  {
+   "id": "2550",
+   "en": "He drags a baby around all day.",
+   "gsw": "De schleppt dr ganzi Tag es Popi durd Gegend.",
+   "lit": "Popi = baby",
+   "ms": 2393,
+   "clip": "audio/gsw/2550.mp3",
+   "enClip": "audio/en/0d1677dfe0c76d6c.mp3"
+  },
+  {
+   "id": "2364",
+   "en": "The mole digs its way through the earth.",
+   "gsw": "Dr Muulwurf grabt sich durd Erda.",
+   "lit": "Muulwurf = mole",
+   "ms": 2572,
+   "clip": "audio/gsw/2364.mp3",
+   "enClip": "audio/en/40b23a8ddcb8bee6.mp3"
+  },
+  {
+   "id": "1697",
+   "en": "You run a bath for him.",
+   "gsw": "Du machsch as Bad für ihn parat.",
+   "lit": "",
+   "ms": 1870,
+   "clip": "audio/gsw/1697.mp3",
+   "enClip": "audio/en/2a80ce4937dd3d3c.mp3"
+  },
+  {
+   "id": "5378",
+   "en": "The President was the first steamer to sink in the Atlantic.",
+   "gsw": "D President isch dr ersti Dampfer gsi, wo uffam Atlantik gsunka isch.",
+   "lit": "",
+   "ms": 3813,
+   "clip": "audio/gsw/5378.mp3",
+   "enClip": "audio/en/72be1cb4c705a818.mp3"
+  },
+  {
+   "id": "2440",
+   "en": "And you teased me.",
+   "gsw": "Und du hesch mi gärgeret.",
+   "lit": "ärgera = tease",
+   "ms": 1948,
+   "clip": "audio/gsw/2440.mp3",
+   "enClip": "audio/en/b5bbb731c3536baf.mp3"
+  },
+  {
+   "id": "2320",
+   "en": "The harvest was ruined and cattle drowned.",
+   "gsw": "D Ernti isch vernichtet worda und Vieh isch ertrunka.",
+   "lit": "",
+   "ms": 3470,
+   "clip": "audio/gsw/2320.mp3",
+   "enClip": "audio/en/d34e7df74b2ed41f.mp3"
+  },
+  {
+   "id": "2318",
+   "en": "Sam Bellamy drowned, only two men managed to save themselves.",
+   "gsw": "Dr Sam Bellamy isch ertrunka, nur zwei Männer hend sich könna retta.",
+   "lit": "",
+   "ms": 4222,
+   "clip": "audio/gsw/2318.mp3",
+   "enClip": "audio/en/a312ee9c389f2e08.mp3"
+  },
+  {
+   "id": "5962",
+   "en": "So he's nervous and unsure of himself.",
+   "gsw": "Er isch dementsprechend ufgregt und verunsicheret.",
+   "lit": "",
+   "ms": 2619,
+   "clip": "audio/gsw/5962.mp3",
+   "enClip": "audio/en/e4502721e6ef848b.mp3"
+  },
+  {
+   "id": "53",
+   "en": "He never listens to the teachers in class.",
+   "gsw": "Er lost da Lehrer im Unterricht nia zua.",
+   "lit": "losa = listen",
+   "ms": 2839,
+   "clip": "audio/gsw/53.mp3",
+   "enClip": "audio/en/286f8b751790f95b.mp3"
+  },
+  {
+   "id": "54",
+   "en": "Since his accident he can't hear anything any more.",
+   "gsw": "Weg sinem Unfall ghört er nüt meh.",
+   "lit": "",
+   "ms": 2810,
+   "clip": "audio/gsw/54.mp3",
+   "enClip": "audio/en/2131fe2a638f20c2.mp3"
+  },
+  {
+   "id": "2475",
+   "en": "We raced off at full throttle.",
+   "gsw": "Mit Vollgas simmer drvoo grast.",
+   "lit": "",
+   "ms": 2431,
+   "clip": "audio/gsw/2475.mp3",
+   "enClip": "audio/en/bd904bf0466aafb5.mp3"
+  },
+  {
+   "id": "3044",
+   "en": "They decide to spend one single lovely day together and then split up.",
+   "gsw": "Sie beschlüssen, zemma ein einziga schöna Tag z verbringa und sich denn z trenna.",
+   "lit": "",
+   "ms": 4686,
+   "clip": "audio/gsw/3044.mp3",
+   "enClip": "audio/en/ac5fee568ea63a38.mp3"
+  },
+  {
+   "id": "5109",
+   "en": "In meditation you breathe in deep and hard.",
+   "gsw": "Während dr Meditation schnuft ma tüüf und fest ii.",
+   "lit": "schnufa = breathe",
+   "ms": 2802,
+   "clip": "audio/gsw/5109.mp3",
+   "enClip": "audio/en/9b0bb7d41dae6cd5.mp3"
+  },
+  {
+   "id": "3053",
+   "en": "Almost all the drawers have a handle on the front.",
+   "gsw": "Fast alli Schublada hend vorna an Griff.",
+   "lit": "",
+   "ms": 2420,
+   "clip": "audio/gsw/3053.mp3",
+   "enClip": "audio/en/1364f1bd95919cff.mp3"
+  },
+  {
+   "id": "2664",
+   "en": "But when it storms and snows, spring isn't far off.",
+   "gsw": "Wenns aber stürmt und schneit, isch dr Füahlig nüma wiit.",
+   "lit": "",
+   "ms": 3070,
+   "clip": "audio/gsw/2664.mp3",
+   "enClip": "audio/en/629a3a69a382d5cf.mp3"
+  },
+  {
+   "id": "2537",
+   "en": "He's sleeping in the lounge.",
+   "gsw": "Er schloft ir Lounge.",
+   "lit": "",
+   "ms": 2090,
+   "clip": "audio/gsw/2537.mp3",
+   "enClip": "audio/en/7334ac8d0989f53c.mp3"
+  },
+  {
+   "id": "2543",
+   "en": "No one's creeping along the corridor listening to us.",
+   "gsw": "Es schliicht niamert uf dem Gang uma und belauscht üüs.",
+   "lit": "",
+   "ms": 3359,
+   "clip": "audio/gsw/2543.mp3",
+   "enClip": "audio/en/8e5cb5ed080c0000.mp3"
+  },
+  {
+   "id": "2540",
+   "en": "I was waiting for you to sneak into my room.",
+   "gsw": "I han druf gwartet, dass du di in mis Zimmer schliichsch.",
+   "lit": "",
+   "ms": 3530,
+   "clip": "audio/gsw/2540.mp3",
+   "enClip": "audio/en/d4da8d50a3172383.mp3"
+  },
+  {
+   "id": "2470",
+   "en": "He stopped cycling because his bum hurt.",
+   "gsw": "Er isch nüm Velogfahra, will sis Fütla weh tua het.",
+   "lit": "Fütla = bum",
+   "ms": 3358,
+   "clip": "audio/gsw/2470.mp3",
+   "enClip": "audio/en/2452a23108428d71.mp3"
+  },
+  {
+   "id": "2546",
+   "en": "At night I often sneaked outside.",
+   "gsw": "Nachts han i mi oft ussa gschlicha.",
+   "lit": "",
+   "ms": 2690,
+   "clip": "audio/gsw/2546.mp3",
+   "enClip": "audio/en/cb64c5d5194c8b3f.mp3"
+  },
+  {
+   "id": "2521",
+   "en": "The people looked at each other.",
+   "gsw": "D Lüüt hend anand aagluagt.",
+   "lit": "",
+   "ms": 1896,
+   "clip": "audio/gsw/2521.mp3",
+   "enClip": "audio/en/d89f4fa574d155cf.mp3"
+  },
+  {
+   "id": "2522",
+   "en": "The others looked at each other, embarrassed.",
+   "gsw": "Dia andera hend anand verlega aagluagt.",
+   "lit": "",
+   "ms": 2428,
+   "clip": "audio/gsw/2522.mp3",
+   "enClip": "audio/en/899de7da1d7642b3.mp3"
+  },
+  {
+   "id": "3650",
+   "en": "Cooked, they taste a bit like spinach.",
+   "gsw": "Kocht schmöckens ähnlich wia Spinat.",
+   "lit": "",
+   "ms": 2362,
+   "clip": "audio/gsw/3650.mp3",
+   "enClip": "audio/en/934c2143cbb6d67f.mp3"
+  },
+  {
+   "id": "1773",
+   "en": "The ball rolled under the car there.",
+   "gsw": "Dr Ball isch ihna döt unter ds Auto grollt.",
+   "lit": "",
+   "ms": 2321,
+   "clip": "audio/gsw/1773.mp3",
+   "enClip": "audio/en/6c89113cb1e26426.mp3"
+  },
+  {
+   "id": "2261",
+   "en": "You're painting it very colourfully.",
+   "gsw": "Du molsch das jo sehr bunt uus.",
+   "lit": "",
+   "ms": 2579,
+   "clip": "audio/gsw/2261.mp3",
+   "enClip": "audio/en/39086f87788951e3.mp3"
+  },
+  {
+   "id": "3003",
+   "en": "A green cap is worn with it.",
+   "gsw": "Dodrzua wird a grüani Mütza treit.",
+   "lit": "",
+   "ms": 2240,
+   "clip": "audio/gsw/3003.mp3",
+   "enClip": "audio/en/eaf76942c8b23deb.mp3"
+  },
+  {
+   "id": "1111",
+   "en": "And it was hard and expensive to get spare parts for the machines.",
+   "gsw": "Usserdem isch es schwierig und tüür gsi, Ersatzteil für dia Maschina zkriaga.",
+   "lit": "",
+   "ms": 3970,
+   "clip": "audio/gsw/1111.mp3",
+   "enClip": "audio/en/bfc7e9962f66c015.mp3"
+  },
+  {
+   "id": "2414",
+   "en": "It had only snowed lightly, but the pistes were already open.",
+   "gsw": "Es het nur liacht gschneit aber d Pista sind scho offa gsi.",
+   "lit": "",
+   "ms": 3710,
+   "clip": "audio/gsw/2414.mp3",
+   "enClip": "audio/en/4f12e4bfe1c1aed4.mp3"
+  },
+  {
+   "id": "3656",
+   "en": "St Nicholas Day is fast approaching!",
+   "gsw": "Ds Sankt Niklaus Fest nöheret sich in grossa Schritt!",
+   "lit": "",
+   "ms": 2903,
+   "clip": "audio/gsw/3656.mp3",
+   "enClip": "audio/en/43f9e5a5121c371d.mp3"
+  },
+  {
+   "id": "976",
+   "en": "Next to the ski jumps they built a cable car too.",
+   "gsw": "Neb dr Schanza het ma au a Gondelbahn baut.",
+   "lit": "",
+   "ms": 2420,
+   "clip": "audio/gsw/976.mp3",
+   "enClip": "audio/en/580a883e9c4a54e0.mp3"
+  },
+  {
+   "id": "4915",
+   "en": "On Monday lots of thunderstorms threaten, mainly in western Switzerland and Ticino.",
+   "gsw": "Am Mentig dorhen vieli Gwitter, mit Schwerpunkt Westschwiz und Tessin.",
+   "lit": "",
+   "ms": 3855,
+   "clip": "audio/gsw/4915.mp3",
+   "enClip": "audio/en/3aa3f4458f145369.mp3"
+  },
+  {
+   "id": "2666",
+   "en": "Imagine if I fall.",
+   "gsw": "Stell diar vor, i stürza.",
+   "lit": "",
+   "ms": 2230,
+   "clip": "audio/gsw/2666.mp3",
+   "enClip": "audio/en/233200bb7cbc6955.mp3"
+  },
+  {
+   "id": "2667",
+   "en": "That's why I fall now and then.",
+   "gsw": "Drum stürzi au ab und zua ab.",
+   "lit": "",
+   "ms": 2136,
+   "clip": "audio/gsw/2667.mp3",
+   "enClip": "audio/en/1d1ef2e1ce7be0ae.mp3"
+  },
+  {
+   "id": "656",
+   "en": "After a few cuts the girl was able to free herself.",
+   "gsw": "Noch a paar Schnitt het sich ds Meitli könna befreia.",
+   "lit": "",
+   "ms": 3010,
+   "clip": "audio/gsw/656.mp3",
+   "enClip": "audio/en/475afa08b8a7e1dd.mp3"
+  },
+  {
+   "id": "629",
+   "en": "Good day, Little Red Riding Hood! says the wolf.",
+   "gsw": "Guata Tag, Rotkäppli! seit dr Wolf.",
+   "lit": "",
+   "ms": 2466,
+   "clip": "audio/gsw/629.mp3",
+   "enClip": "audio/en/8400112b866e9fe8.mp3"
+  },
+  {
+   "id": "655",
+   "en": "At once he saw Little Red Riding Hood.",
+   "gsw": "Sofort het er ds Rotkäppli gseh.",
+   "lit": "",
+   "ms": 2410,
+   "clip": "audio/gsw/655.mp3",
+   "enClip": "audio/en/80b154edd9ffcded.mp3"
+  },
+  {
+   "id": "621",
+   "en": "So everyone called the girl Little Red Riding Hood.",
+   "gsw": "So het jeda ds Meitli Rotkäppli gnennt.",
+   "lit": "Rotkäppli",
+   "ms": 2830,
+   "clip": "audio/gsw/621.mp3",
+   "enClip": "audio/en/9699b32a1265c7d5.mp3"
+  },
+  {
+   "id": "631",
+   "en": "The wolf asked where Little Red Riding Hood was going.",
+   "gsw": "Dr Wolf het gfrogt, wo ds Rotkäppli hiigängi.",
+   "lit": "",
+   "ms": 2729,
+   "clip": "audio/gsw/631.mp3",
+   "enClip": "audio/en/ea9130a69ff156c1.mp3"
+  },
+  {
+   "id": "634",
+   "en": "The grandmother and Little Red Riding Hood, I'll snap them both up!",
+   "gsw": "D Grossmuater und ds Rotkäppli, dia schnappi miar beidi!",
+   "lit": "",
+   "ms": 3032,
+   "clip": "audio/gsw/634.mp3",
+   "enClip": "audio/en/3f8d4673014feb84.mp3"
+  },
+  {
+   "id": "170",
+   "en": "All the better to eat you with! said the wolf, and ate Little Red Riding Hood too.",
+   "gsw": "Dass i di besser fressa kann! het dr Wolf gseit und au ds Rotkäppli ufgessa.",
+   "lit": "",
+   "ms": 4322,
+   "clip": "audio/gsw/170.mp3",
+   "enClip": "audio/en/2194cd7fec3a63cf.mp3"
+  },
+  {
+   "id": "1857",
+   "en": "On Tuesday, foggy in places.",
+   "gsw": "Am Dsiistig teilwiis neblig.",
+   "lit": "",
+   "ms": 1724,
+   "clip": "audio/gsw/1857.mp3",
+   "enClip": "audio/en/bc4c5a7ddd4c3078.mp3"
+  },
+  {
+   "id": "2624",
+   "en": "I've sorted the files for you.",
+   "gsw": "I han diar dia Dateia mol sortiart.",
+   "lit": "",
+   "ms": 2470,
+   "clip": "audio/gsw/2624.mp3",
+   "enClip": "audio/en/799eabbea2a3c9a3.mp3"
+  },
+  {
+   "id": "1781",
+   "en": "You never sweep, and you don't do anything else in the house either.",
+   "gsw": "Du kehrsch nia und au sus übernimmsch nüt im Huus.",
+   "lit": "kehra = sweep",
+   "ms": 3149,
+   "clip": "audio/gsw/1781.mp3",
+   "enClip": "audio/en/fbbe063c8a34638e.mp3"
+  },
+  {
+   "id": "1201",
+   "en": "The trend for Friday points to another front.",
+   "gsw": "Dr Trend für da Fritig düütet uf a nögschti Front.",
+   "lit": "",
+   "ms": 2660,
+   "clip": "audio/gsw/1201.mp3",
+   "enClip": "audio/en/f124c11a9a470ca8.mp3"
+  },
+  {
+   "id": "3805",
+   "en": "For health reasons, though, he had to give the job up.",
+   "gsw": "Us gsundheitlicha Gründ het er de Job jedoch müassa an Nagel henka.",
+   "lit": "hang it on the nail",
+   "ms": 3654,
+   "clip": "audio/gsw/3805.mp3",
+   "enClip": "audio/en/1f5caf2021f1b2a9.mp3"
+  }
+ ]
+}
